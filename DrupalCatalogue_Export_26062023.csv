@@ -1,0 +1,1114 @@
+﻿ID,UUID,Revision ID,Language,Content type,Revision create time,Revision user,Revision log message,Published,Authored by,Name,Authored on,Changed,Promoted to front page,Sticky at top of lists,Default translation,Default revision,Revision translation affected,URL alias,Menu link,Task Description,Feeds item,Active,Comments,Contact,Data Update Responsibility,Dataset Based on,Dataset License,Dataset Extent,Dataset Review Period,Dataset Type,Deliverable,Dependants,Downloadable,ECHOES Classification,ECHOES ID,id,Input Format,Inspire Theme,Layer,Lineage Statement,Mapping Service Format,Notes,Progress,Link to code repository using data,Required Data,Scale/Resolution,Schema,Source Providers,Spatial Reference System,Store,Table,Tag(s),Time Period,Type,Update Frequency,Viewable,Web Service URL,WorkSpace
+21,718d44cc-84fa-4467-83f6-0dedf89cbf11,70,en,dataset,1601301569,1,,,,Species Distribution Areas,1600858778,1607337314,,,1,1,1,/dataset/species-distribution-areas,,Parameterize Species Distribution Modelling based on combination of Land cover and habitat maps received from WP5 and Atlas and bird distribution data,2,1,2,,37,,,,24,,8,D3.2,1,,1,,39,,,"<p>combine new land cover and broad habitat maps received from WP 5, with comparable atlas and bird distribution data acquired for coastal habitats of Ireland (BirdWatch Ireland) and Wales (BTO Wales). Such atlas data will take the form of presence-absence in map grids or count data from standard walked transects or dual belt transects in specific wetland locations (WeBS: Wetland Bird Survey; Core (wetland sites) and Low (tide) count data).</p>
+",,,110,,new land cover and broad habitat maps received from WP 5,10 metres,,37,,,,,Ongoing,53,24,1,,
+23,47747338-5eac-49a3-b2df-bab8cc28e4dc,71,en,dataset,1601299167,1,,,,Species Land Use Areas,1600858778,1607337314,,,1,1,1,/dataset/species-land-use-areas,,"Space and habitat use by target birds to resolve habitat use within wetland sites, derived from analysis of bird and field surveys of vegetation",2,1,2,,37,,,,24,21,10,,1,38,3,,39,40,,"collate individual, submitted records for the target goose and wader species in coastal habitats in Ireland (National Biodiversity Centre) and Wales (West Wales Biodiversity Information Centre; Cofnod - North Wales Environmental Information Service). The analysis will be refined to determine habitat associations at finer resolution derived from aggregated point records of target bird species.",41,,110,,,10 metres,,37,42,,,,Ongoing,53,24,1,,
+33,e2896be7-0ead-4289-8144-904a587e1ddb,72,en,dataset,1600873996,1,,,,Selected climate change scenarios,1600858778,1607337314,,,1,1,1,/dataset/selected-climate-change-scenarios,,Incorporation of bio-climate data and climate change scenarios into ECHOES platform,2,1,,,43,,,,24,21,20,WP7,1,49,13,,39,50,,,41,,,,WP3,10 m,,43,42,,,,Ongoing,53,24,1,,
+32,3abe858f-7e77-425b-bf15-78a4faf174f4,73,en,dataset,1600873985,1,,,,Forecasted Climate Condition Data,1600858778,1607337314,,,1,1,1,/dataset/forecasted-climate-condition-data,,Vulnerability maps and indices for current and future situation across different RCP scenarios,2,1,,,43,,,,24,21,19,WP6,1,49,12,,39,50,,,41,,110,,WP3 + WP4,10 m,,43,42,,,,Ongoing,53,24,1,,
+31,90a382fa-2134-4648-ab86-18196833ae3e,74,en,dataset,1600873975,1,,,,Climate Condition Data,1600858778,1607337314,,,1,1,1,/dataset/climate-condition-data,,Vulnerability maps and indices for the current situation,2,1,,,43,,,,24,21,18,WP5,1,49,11,,39,50,,"Baseline climate data for the region of interest will be sourced from available datasets for Ireland and Wales and will include e.g., annual/seasonal/monthly temperature, precipitation, solar radiation, wind conditions, humidity, soil moisture and land-cover wherever available. To optimize efficiency, prevent overfitting and minimize collinearity, a set of preselected variables will be tested to establish the most fit-for-purpose set for inclusion in the SDM analysis.",41,,110,,Raw Data,10 m,,43,42,,,,Ongoing,53,24,1,,
+30,b323848c-e9d9-494e-bef8-2d6666a912af,75,en,dataset,1600873963,1,,,,Species Abundance,1600858778,1607337314,,,1,1,1,/dataset/species-abundance,,Species response curves,2,1,,,43,,,,24,22,17,WP4,1,49,10,,46,50,,Significant discriminating bioclimatic controls for species and habitat distribution will be detected and spatial patterns of bioclimatic zones will be identified and mapped.,47,,110,,Raw Data,"1:62,141",,43,42,,,,Ongoing,53,24,1,,
+29,f6d43186-eb44-446c-9acd-d0dfa379bc61,76,en,dataset,1600873949,1,,,,Simulated Habitat Change,1600858778,1607337314,,,1,1,1,/dataset/simulated-habitat-change,,Automatic change detection approach for integration into the ECHOES platform,2,1,,,43,,,,24,21,16,WP 3 + 4,1,48,9,,39,51,,an automated approach to change will be explored based on a time series profile of spectral reflectance or vegetation indices.,41,,110,,Raw Data,10 m,,43,42,,,,Ongoing,53,24,1,,
+28,866c333e-7aa1-4d4d-86bd-6f02fbe49ff7,77,en,dataset,1600873937,1,,,,Forecasted Land Use,1600858778,1607337314,,,1,1,1,/dataset/forecasted-land-use,,Trajectories of habitat / land cover and environmental change for the field sites -> Model datasets,2,1,,,43,,,,24,21,15,WP 3 + 4,1,48,8,,39,51,,"Using available historic imagery, habitat/land cover maps from years prior to the baseline year will be generated to better understand the dynamics of change at the field sites. These will be produced at the best resolution possible, given that historic data may not be as readily available as contemporary data, and over as long a period as imagery allows, potentially at multi-annual steps. These changes will act as a guide to the climate modelling studies of WP6 to indicate short-term variability at the selected sites relatively independently of climate change.",41,,110,,Raw Data,10m,,43,42,,,,Ongoing,53,24,1,,
+27,6a529236-31ba-4153-895d-c01f7f28c7b5,78,en,dataset,1600873923,1,,,,Field Site Habitats,1600858778,1607337314,,,1,1,1,/dataset/field-site-habitats,,Habitat and land cover maps for the field sites for the baseline year ( when field data are collected) -> separate datasets,2,1,,,43,,,,24,22,14,WP 3 + 4,1,48,7,,44,51,,,47,,110,,Raw Data,"1:62,141",,43,42,,,,Ongoing,53,24,1,,
+26,888dec00-14e3-4a8c-bdbf-769ee087381d,79,en,dataset,1600873912,1,,,,Habitat Land use,1600858778,1607337314,,,1,1,1,/dataset/habitat-land-use,,Dataset of pre-processed satellite and UAV imagery covering the field sites,2,1,,,43,,,,24,21,13,WP 3 + 4,1,48,6,,39,51,,"Primarily this focuses on (a) the desired and minimum spatial resolution, (b) the desired and minimum species mapping level, and (c) the time frame over which a trajectory of habitat change needs to be established.",41,,,,Raw Data,10 m,,43,42,,,,Ongoing,53,24,1,,
+25,71ce3f81-c414-42c7-b4fe-37a1f48e63e8,80,en,dataset,1600873897,1,,,,Species Tracking Records,1600858778,1607337314,,,1,1,1,/dataset/species-tracking-records,,"Spatial Analyses of tracking data performed as required by WP 3, 5, 6",2,1,,,37,,,,25,22,12,"WP3, WP5, WP6",1,38,5,,45,40,,"Spatial analyses of tracking data performed as required by WP3,5,6",47,,110,,Raw Data,"1:62,141",,37,42,,,,Ongoing,53,25,1,,
+24,fad20272-b6c8-423b-a8cc-2cb7a4ac22a4,81,en,dataset,1600873883,1,,,,Species Vegetation Records,1600858778,1607337314,,,1,1,1,/dataset/species-vegetation-records,,"First- second- and third-winter vegetation sampling performed, data digitised and passed to WP3&5 teams",2,1,,,37,,,,25,22,11,"WP3, WP5",1,38,4,,44,40,,"First- second- and third-winter vegetation sampling performed, data digitised and passed to WP3&5 teams",47,,110,,Raw Data,"1:62,141",,37,42,,,,Ongoing,53,25,1,,
+22,f829e4e5-4fcc-483f-a017-98cdb2c2308c,82,en,dataset,1600873859,1,,,,Species Abundance Areas,1600858778,1607337314,,,1,1,1,/dataset/species-abundance-areas,,Habitat affinity of GWf goose and Curlew determined from refined analysis of aggregated point records of target bird species and habitats associations from finer resolution habitat and vegetation data,2,1,,,37,,,,24,21,9,,1,38,2,,39,40,,General Linear Mixed Models will be employed to determine broad habitat associations,41,,110,,D3.1,10 metres,,37,42,,,,Ongoing,53,24,1,,
+34,c17e0b5f-c75e-485d-8be5-12edfd520ac2,102,en,dataset,1603707075,14,,,1,Example Data Set,1601291712,1607337314,,,1,1,1,/dataset/example-data-set,,"<p>Climate data for the years 2000 to 2009 for Wales</p>
+",,,2,44,37,27,,"MULTIPOLYGON (((-4.217043 52.986432, -4.041595 52.987229, -4.004519 52.888473, -4.239885 52.879084, -4.217043 52.986432)), ((-3.872681 52.961103, -3.872681 53.083357, -3.592529 53.083357, -3.592529 52.961103, -3.872681 52.961103)))",24,21,11,None,,49,14,,52,50,exampleDataSet,"<p>Data downloaded from https://example.com/datasets in October 2020. Data was processed using Python to change the data format.</p>
+",47,Test example dataset progress,,http://github.com/gsdowd/testdata,D3.1,0.736111111,104,37,42,107,exampleDataSet,91|90,2000-2009,54,25,1,,106
+67,f8b91a5e-be41-42da-a366-afb77dbb8f76,138,en,dataset,1646840900,82,,1,82,GBR BGS 1:625k Bedrock Lithology,1646840900,1687434067,,,1,1,1,/dataset/gbr-bgs-1625k-bedrock-lithology,,"<p>Metadata link:&nbsp;<a href=""https://metadata.bgs.ac.uk/geonetwork/srv/eng/catalog.search#/metadata/9df8df52-d788-37a8-e044-0003ba9b0d98"">https://metadata.bgs.ac.uk/geonetwork/srv/eng/catalog.search#/metadata/9df8df52-d788-37a8-e044-0003ba9b0d98</a></p>
+
+<p>Data identifying landscape areas (shown as polygons) attributed with geological names. The scale of the data is 1:625 000 providing a simplified interpretation of the geology and may be used as a guide at a regional or national level, but should not be relied on for local geology. Onshore coverage is provided for all of England, Wales, Scotland, the Isle of Man and Northern Ireland. Data are supplied as four themes: bedrock, superficial deposits, dykes and linear features (faults). Bedrock geology describes the main mass of solid rocks forming the earth's crust. Bedrock is present everywhere, whether exposed at surface in outcrops or concealed beneath superficial deposits or water bodies. Geological names are based on the lithostratigraphic or lithodemic hierarchy of the rocks. The lithostratigraphic scheme arranges rock bodies into units based on rock-type and geological time of formation. Where rock-types do not fit into the lithostratigraphic scheme, for example intrusive, deformed rocks subjected to heat and pressure resulting in new or changed rock types; then their classification is based on their rock-type or lithological composition. This assesses visible features such as texture, structure, mineralogy. Superficial deposits are younger geological deposits formed during the most recent geological time; the Quaternary. These deposits rest on older rocks or deposits referred to as bedrock. The superficial deposits theme defines landscape areas (shown as polygons) attributed with a geological name and their deposit-type or lithological composition. The dykes theme defines small, narrow areas (shown as polygons) of a specific type of bedrock geology; that is igneous rocks which have been intruded into the landscape at a later date than the surrounding bedrock. They are presented as an optional, separate theme in order to provide additional clarity of the bedrock theme. The bedrock and dykes themes are designed to be used together. Linear features data (shown as polylines) represents geological faults at the ground or bedrock surface (beneath superficial deposits). Geological faults occur where a body of bedrock has been fractured and displaced by large scale processes affecting the earth's crust (tectonic forces). The faults theme defines geological faults (shown as polylines) at the ground or bedrock surface (beneath superficial deposits). All four data themes are available in vector format (containing the geometry of each feature linked to a database record describing their attributes) as ESRI shapefiles and are delivered free of charge under the terms of the Open Government Licence.</p>
+",,1,2,,114,,113,,,22,86,,,,34,,46,68,,"<p>A new 1:625 000 scale (5th edition) printed geological map of the United Kingdom, published in 2007, was prepared digitally and these data were then used to create the replacement DiGMapGB-625 Bedrock Version 5. The 1:625 000 Bedrock data were created from two main sources. The geology for England &amp; Wales, Scotland and the Isle of Man is generalised directly from the 1:50 000 scale DiGMapGB-50 V3 data released in 2006 with ongoing revisions through to 2007 incorporating selective interpretations from new 50k maps, anticipating their release as V5 tiles in 2008. The data for Northern Ireland were derived by minor simplification from the 1:250 000 scale geological map of Northern Ireland, published in 2007. Holes in the 50k data were filled using information from other sources. The version 5 data of the 1: 625 000 dykes data was created primarily from the 1:50 000 scale Digital Geological Map of Great Britain (DiGMapGB-50) version 3 dataset (released in 2006) by generalisation involving cartographic selection, modification, simplification or exaggeration and matches that shown on the BGS poster maps of the UK (North and South) published in 2008. The attributes and nomenclature used follow those on the printed maps. The version 5 data of the 1: 625 000 linear features data was created primarily from the 1:50 000 scale Digital Geological Map of Great Britain (DiGMapGB-50) version 3 dataset (released in 2006) by generalisation involving cartographic selection, modification, simplification or exaggeration and matches that shown on the BGS poster maps of the UK (North and South) published in 2008. The attributes and nomenclature used follow those on the printed maps. The linear features were fitted to a relevant topographic base at the time of production. The 1:625 000 Superficial data were compiled from two main sources: the latest available 1:50 000 data (together with other information used to fill in the ‘holes’) and the 1:250 000 published Quaternary map of Northern Ireland.</p>
+",41,,,,,1:625000,104,114,,,,90,2008,54,,1,http://ogc.bgs.ac.uk/cgi-bin/BGS_Bedrock_and_Superficial_Geology/wms,
+68,4d5c6c8d-5fd6-41d4-99f6-2e9e1e4a4f4a,139,en,dataset,1646841991,82,,1,82,GBR BGS Parent Material Soil group 1km,1646841991,1687434067,,,1,1,1,/dataset/gbr-bgs-parent-material-soil-group-1km,,"<p>Metadata link:&nbsp;<a href=""https://metadata.bgs.ac.uk/geonetwork/srv/eng/catalog.search#/metadata/c42c40be-da99-45ce-e044-0003ba9b0d98"">https://metadata.bgs.ac.uk/geonetwork/srv/eng/catalog.search#/metadata/c42c40be-da99-45ce-e044-0003ba9b0d98</a></p>
+
+<p>The simplified texture classifications are derived from measured soil textures (%clay, %silt and %sand) taken from archive GBASE and geotechnical samples held by BGS. The samples are compared with a simplified soil-texture triangle used for mySOIL and are grouped by their underlying soil-parent material type to show a map of distribution of the classes; expert judgment has been used to estimate a texture class where sample data is not available). Note that the map uses terms that refer to: Sandy soils, Silty soils, Clayey soils and Loamy soils with additional indicators for the presence of Chalk fragments (Chalky) and Peat (Peaty). Most parent materials generate a broad range of soil textures so these terms should be regarded as 'indicative'. Further information is available from the mySOIL resource page. The GBASE laser granulometry dataset (used in this map later) is also available in the UKSO map viewer.</p>
+",,1,2,,114,,113,,,22,86,,,,35,,46,68,,,41,,,,,1:50000,,114,42,,,90,2012,54,,1,https://map.bgs.ac.uk/arcgis/rest/services/UKSO/UKSO_BGS/MapServer/WMSServer,
+72,c7a9e3e3-7d4e-4310-acbc-d2cf6709aa26,143,en,dataset,1646844762,82,,1,82,WFD Groundwater bodies Cycle 2,1646844762,1687434067,,,1,1,1,/dataset/wfd-groundwater-bodies-cycle-2,,"<p>Metadata link:&nbsp;<a href=""https://libcat.naturalresources.wales/folio/?oid=116792"">https://libcat.naturalresources.wales/folio/?oid=116792</a></p>
+
+<p>Water Framework Directive (WFD) Groundwaterbodies Cycle 2 (2014-2019) is a spatial (polygon) dataset which has been created for the implementation of the Water Framework Directive (WFD). Article 2, clause 2 of the WFD defines them as '…all water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil'. For the purposes of reporting under the WFD a groundwater body represent a distinct body of groundwater flow with a coherent flow unit including recharge and discharge areas with little flow across the boundaries. These reflect hydrogeological characteristics containing information on flow and stage properties, recharge and vulnerability to pollution. This has been undertaken through defining aquifers into different types and broken into catchment units at Catchment Abstraction Management Strategy (CAMS) scale.</p>
+",,1,2,,,,113,,,22,86,,,,39,,46,58,,"<p>The primary input dataset is '1:625K Classified Aquifer Geology'. This dataset has been digitised directly from the hard copy '1:250K Solid Geology Map' and classified according to aquifer type and are therefore directly derived from the underlying BGS data. These classifications were verified by the British Geology Survey (BGS). These data have gone out for consultation at Area level and in some instances 1:50K Solid Geology has been used to define localised boundaries. Since waterbodies are attributed with a unique identifier 'WB_ID' this dataset can be linked directly to other WFD data sources such as physical characteristics, risk, classification and proposed objectives.</p>
+",41,,,,,1:250000,,100,89,,,90,2014-2021,54,,1,http://lle.gov.wales/services/wms/nrw,
+73,25955e8f-8e85-4fb8-b4a9-1a4f28c6e328,144,en,dataset,1646845013,82,,1,82,WFD Coastal Waterbodies Cycle 2,1646845013,1687434067,,,1,1,1,/dataset/wfd-coastal-waterbodies-cycle-2,,"<p>Metadata link:&nbsp;<a href=""https://libcat.naturalresources.wales/folio/?oid=116271"">https://libcat.naturalresources.wales/folio/?oid=116271</a></p>
+
+<p>Water Framework Directive (WFD) Coastal Waterbodies is a polygon Shapefile dataset containing attributes that have been collated as defined for the implementation of the Water Framework Directive (WFD). Article 2, clause 7 of the WFD defines coastal waterbodies as '...a surface water on the landward side of a line, every point of which is at a distance of one nautical mile on the seaward side from the nearest point of the baseline from which the breadth of territorial waters is measured, extending where appropriate up to the outer limit of transitional waters'. Coastal waters were defined by territorial waters 1 nautical mile from the Mean High Water coastline taken directly from OS 1:50K MeridianTM 2. The delineation between coastal and estuarine waters was delineated by the Environment Agency defined transitional waterbodies. Waterbodies are also split and assigned to River Basin Districts. Since waterbodies are attributed with a unique identifier 'EA_WB_ID' this dataset can be linked directly to other WFD data sources such as physical characteristics, risk, classification and proposed objectives. This dataset covers the layer for Cycle 2 of the Water framework Directive.</p>
+",,1,2,,,,113,,,22,86,,,,40,,46,58,,"<p>This was created from originally from OS data and territorial waters data as described in the abstract. The Cycle 2 version represents a minor update of the cycle 1 dataset.</p>
+",41,,,,,1:50000,,100,89,,,90,2013-2015,54,,1,http://lle.gov.wales/services/wms/nrw,
+74,59639021-5627-42e3-a0e0-e8c08deb0248,145,en,dataset,1646845596,82,,1,82,Sites of Special Scientific Interest (SSSI),1646845596,1687434067,,,1,1,1,/dataset/sites-special-scientific-interest-sssi,,"<p>Metadata link:&nbsp;<a href=""https://libcat.naturalresources.wales/folio/?oid=98776"">https://libcat.naturalresources.wales/folio/?oid=98776</a></p>
+
+<p>This spatial dataset contains the digital boundaries of Sites of Special Scientific Interest (SSSIs) in Wales. SSSIs cover a wide range of habitats from small fens, bogs and riverside meadows to sand-dunes, woodlands and vast tracts of uplands. Most are in private ownership, although some are owned and managed by local wildlife trusts, or other voluntary conservation bodies. Notification of an SSSI under the Wildlife and Countryside Act 1981 has since been amended by the Countryside and Rights of Way Act 2001, which brought about numerous changes in the way SSSI are notified managed and protected. In order to ensure consistent, favourable long-term management of these sites, Natural Resources Wales (NRW) with landowners have prepared management plans for all SSSI in Wales. Local planning authorities are required to consult NRW before allowing any development to proceed that may affect an SSSI. Water, gas and electricity companies must also do the same. SSSIs have been designated, from 1949 to the present day, and are on-going. The data has been held digitally since the mid-1990s. This data has been checked by relevant NRW staff. Please refer to the designation map as the legal definitive boundary. For large SSSIs that were captured digitally and have been printed on a smaller scale map than OS MasterMap, please refer to the OS MasterMap edition at time of capture to view the definitive boundary.</p>
+",,1,2,,,,,,,22,86,,,,41,,46,51,,,41,,,,,,,,89,,,90,1992-2021,54,,1,,
+75,87d0e609-df99-481c-b3eb-113001103781,146,en,dataset,1646846267,82,,1,82,Special Protection Areas (SPA) - Wales,1646846267,1687434067,,,1,1,1,/dataset/special-protection-areas-spa-wales,,"<p>Metadata link:&nbsp;<a href=""https://libcat.naturalresources.wales/folio/?oid=98775"">https://libcat.naturalresources.wales/folio/?oid=98775</a></p>
+
+<p>This spatial dataset contains the digital boundaries of all Spatial Protection Areas (SPAs) in Wales. The EC Birds Directive of 1979 requires member states to establish SPAs to conserve the habitats of two categories of birds:<br />
+i) Species which are rare or vulnerable, of which there are forty-eight in the UK.<br />
+ii) Some migratory species which visit our shores regularly.<br />
+SPAs in Wales are identified by NRW, in conjunction with the UK Joint Nature Conservation Committee, and designated by the First Minister for the Welsh Assembly Government. These sites are also protected through being Sites of Special Scientific Interest (SSSIs). The 1994 Conservation Regulations also provide a means of protecting such areas at sea. SPAs together with SACs will contribute to a European Union network of protected sites to be known as 'Natura 2000' (N2K sites). SPAs have been designated over a number of years, from 1982 to the present day, and are on-going. The data has been held digitally since the mid1990s.</p>
+",,1,2,,,,113,,,22,86,,,,42,,46,80,,"<p>All SPAs designated before the advent of GIS technology have been converted into digital data from paper maps of various scales. In 2008 the whole dataset was updated to OS MasterMap (to CCW 2006 OS update). This update made reference back to original designation maps and all notational descriptions on these maps e.g. boundary follows Mean High Water Mark and is liable to change. All new or re-designated sites will be put to the latest release by NRW, of OS MasterMap. With the coming of GIS and its use in government departments and commercial companies mobilising the data in this way, advances the protection of these sites and the efficiency of decision making. This data has been checked by relevant NRW staff. However please refer to the designation map as the legal definitive boundary. For recent, large SPAs that were captured digitally and have been printed on a smaller scale map than OS MasterMap, please refer to OSMasterMap edition at time of capture to view the definitive boundary. Marine SPAs will be the exception as they are shown against Marine Charts, so please refer to description for definitive boundary out to sea.</p>
+",41,,,,,,,100,89,,,90,2000-2016,54,,1,http://lle.gov.wales/services/wms/nrw,
+76,2424301c-0c28-4d76-a2c1-271963a943bc,147,en,dataset,1646846554,82,,1,82,Special Areas of Conservation (SAC) - Wales,1646846554,1687434067,,,1,1,1,/dataset/special-areas-conservation-sac-wales,,"<p>Metadata link:&nbsp;https://libcat.naturalresources.wales/folio/?oid=98766</p>
+
+<p>This spatial dataset contains digital boundaries of Special Areas of Conservation (SACs) in Wales. The EC Habitats and Species Directive came into effect in 1992 with the aim of maintaining a rich variety of wildlife by protecting vulnerable habitats, and the plants and animals they support. The Habitat Directive together with the 1979 Birds Directive will lead to the establishment of a series of sites throughout Europe that will be known as 'Natura 2000'. This represents the cream of European sites and will ensure their survival for future generations. SACs have been designated over a number of years, from 1993 to the present day, and are on-going. These sites have been mapped on paper since the mid 1990s and then there was a major review from 2000 with the 'SAC Moderation Project' when the data was captured digitally for the first time.</p>
+",,1,2,,100,,113,,,22,86,,,,43,,46,80,,"<p>In 2005 all SACs were re-designated/designated and the number of sites doubled in Wales, so this entire dataset originated as digital data to OS Landline. In 2008 the whole dataset was updated to OS MasterMap (mostly to CCW 2006 OS update). If any underpinning Sites of Scientific Interest (SSSIs) are re-notified the overlying SAC designation will likewise be put to the latest release by NRW of OS MasterMap. With the coming of GIS and its use in government departments and commercial companies mobilising the data in this way, advances the protection of these sites and the efficiency of decision making. This data has been checked by NRW staff. However please refer to the designation map as the legal definitive boundary. Large SACs that have been printed on a smaller scale map than OS Landline, please refer to OS MasterMap edition at time of transposition to view the definitive boundary.</p>
+",41,,,,,,,100,89,,,90,2000-2019,54,,1,http://lle.gov.wales/services/wms/nrw,
+77,c56ff911-1553-4a62-b16e-f5ab06d1017a,148,en,dataset,1646847207,82,,1,82,Main Rivers,1646847207,1687434067,,,1,1,1,/dataset/main-rivers,,"<p>Metadata link:&nbsp;<a href=""https://libcat.naturalresources.wales/folio/?oid=119161"">https://libcat.naturalresources.wales/folio/?oid=119161</a></p>
+
+<p>The statutory main river map is a 1:10,000 scale spatial (polyline) dataset that defines statutory watercourses designated by Natural Resources Wales as main rivers. The data is for Wales only. 'Main rivers' are usually larger streams and rivers, but some of them are small watercourses of significance. They include certain structures that control or regulate the flow of water in, into or out of the channel.</p>
+",,1,2,,100,,113,,,22,86,,,,44,,45,71,,"<p>Natural Resources Wales has permissive powers, but not a duty, to carry out maintenance, improvement or construction work on designated main rivers. Natural Resources Wales has powers to regulate the activities of others affecting rivers and their flood plains under the Environmental Permitting Regulations, the Water Resources Act 1991 and our land drainage byelaws. All other watercourses are 'ordinary watercourses'. On these watercourses the Lead Local flood Authority or, if within an Internal Drainage District, the Internal Drainage Board have similar permissive powers to maintain and improve. They also have powers to regulate works under the provisions of the Land Drainage Act 1991 and local byelaws. Natural Resources Wales undertakes the role of the Internal Drainage Board in Wales for all Internal Drainage Districts.</p>
+",41,,,,,1:10000,,100,89,,,90,2005,54,,1,http://lle.gov.wales/services/wms/nrw,
+78,d38953f6-84bf-438a-8317-f88ea35fa82b,149,en,dataset,1646847588,82,,1,82,RAMSAR Sites - Wales,1646847588,1687434067,,,1,1,1,/dataset/ramsar-sites-wales,,"<p>Metadata link:&nbsp;<a href=""https://libcat.naturalresources.wales/folio/?oid=98759"">https://libcat.naturalresources.wales/folio/?oid=98759</a></p>
+
+<p>The Convention on Wetlands, called the Ramsar Convention, is an intergovernmental treaty that provides the framework for national action and international cooperation for the conservation and wise use of wetlands and their resources. This spatial dataset contains the digital boundaries of Ramsar sites in Wales. In ratifying the Convention in 1976, the UK government accepted a commitment to promote the conservation of internationally important wetland sites within its territories. Wetlands are vital for many types of birds particularly waterfowl and Wales have some prime sites that are essential to the survival of many wetland plants and animals. Wetland sites can be areas of marsh, fen, peatland or open water; natural or artificial; permanent or temporary; with water that is fresh, brackish or salty. They can also include shallow areas of sea. All Ramsar sites are also Sites of Special Scientific Interest (SSSI). Wetlands of International Importance are identified by Natural Resources Wales (NRW), in collaboration with the UK Joint Nature Conservation Committee (JNCC), and designated by the First Minister for the National Assembly for Wales. The Ramsars have been designated over a number of years, from 1976 to the present day, and are on-going. The data has been held digitally since mid1990s. The boundaries have been checked by NRW staff. Due to scale enlargement and different editions of map a certain degree of interpretation was required.</p>
+",,1,2,,100,,113,,,22,86,,,,45,,46,80,,"<p>Originally produced as paper maps but with the progress to GIS later designations produced directly from digital capture. The data was derived from the designation paper maps that vary in scale from 1:50,000, 1:25,000 and 1:10,000. The present data is digitised to OS MasterMap. With the coming of GIS and its use in government departments and commercial companies mobilising the data in this way, advances the protection of these sites and the efficiency of decision making.</p>
+",41,,,,,1:10000,,100,89,,,90,1976-2022,54,,1,http://lle.gov.wales/services/wms/nrw,
+79,6d7fee2a-d9fc-4181-8986-d1c3b6bbab26,150,en,dataset,1646908542,82,,1,82,RAMSAR Sites - Ireland,1646908542,1687434067,,,1,1,1,/dataset/ramsar-sites-ireland,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/4d259989-5cbc-4b29-9003-b05e0c74c219"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/4d259989-5cbc-4b29-9003-b05e0c74c219</a></p>
+
+<p>The dataset represents the areas protected under the Ramsar Convention on Wetlands and relevant information about them. The points were compiled from SACs, SPAs, and NHAs, and therefore provide only a general indication of Ramsar areas.</p>
+",,1,2,,103,,97,,,22,86,,,,46,,44,80,,"<p>Author: Coastal and Marine Resources Centre, Naval Base, Haulbowline, Cobh, Co. Cork.</p>
+",41,,,,,,,103,102,,,91,2004,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+80,6f3b1ddf-6633-4d64-96ce-94bf120391a3,151,en,dataset,1646910064,82,,1,82,Special Protection Areas (SPA) - Ireland,1646910064,1687434067,,,1,1,1,/dataset/special-protection-areas-spa-ireland,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/ea0c4c1a-41d9-4862-b28a-4f54be6e543a"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/ea0c4c1a-41d9-4862-b28a-4f54be6e543a</a></p>
+
+<p>The EU Birds Directive (79/409/EEC) requires designation of SPAs for: listed rare and vulnerable species; regularly occurring migratory species, such as ducks, geese and waders; wetlands, especially those of international importance, which attract large numbers of migratory birds each year. (Internationally important means that 1% of the population of a species uses the site, or more than 20,000 birds regularly use the site.) This is a national dataset.</p>
+",,1,2,,103,,97,,,22,86,,,,47,,46,80,,"<p>This spatial dataset and associated web services is currently presented in Irish Transverse Mercator projection. The majority of site boundaries were originally digitised from Ordnance Survey of Ireland 1:10560 six-inch raster data in Irish Grid. Over time an increasing number of site boundaries in this dataset will be replotted to Ordnance Survey of Ireland 1:5000 vector mapping in Irish Transverse Mercator. The spatial dataset and associated web services contain two feature level metadata fields: SOURCE_SCALE AND SOURCE_CRS to identify the source scale and projection that the site boundary feature is derived from.</p>
+",41,,,,,1:50000,,103,102,,,91,1980-2014,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+81,6ad3502e-7b5d-4238-8f19-ea5925b2c1f1,152,en,dataset,1646911048,82,,1,82,Special Areas of Conservation (SAC) - Ireland,1646911048,1687434067,,,1,1,1,/dataset/special-areas-conservation-sac-ireland,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/d86f3a31-affe-4875-b270-895387012442"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/d86f3a31-affe-4875-b270-895387012442</a></p>
+
+<p>These are prime wildlife conservation areas in the country, considered to be important on a European as well as Irish level. Most Special Areas of Conservation (SACs) are in the countryside, although a few sites reach into town or city landscapes, such as Dublin Bay and Cork Harbour. Detailed conservation objectives are available for some SACs and as additional ones are approved they will be posted on the NPWS website (www.npws.ie). The legal basis on which SACs are selected and designated is the EU Habitats Directive, transposed into Irish law in the as amended in 1998 and 2005. The Directive lists certain habitats and species that must be protected within SACs This is a national dataset and is split into two separate file download: SACs within the bounds of the ITM coordinate reference system and off-shore SACs which are provided in WGS 84.</p>
+",,1,2,,,,97,,,22,86,,,,48,,46,80,,"<p>This spatial dataset and associated web services is currently presented in Irish Transverse Mercator projection. The majority of site boundaries were originally digitised from Ordnance Survey of Ireland 1:10560 six-inch raster data in Irish Grid. Over time an increasing number of site boundaries in this dataset will be replotted to Ordnance Survey of Ireland 1:5000 vector mapping in Irish Transverse Mercator. The spatial dataset and associated web services contain two feature level metadata fields: SOURCE_SCALE AND SOURCE_CRS to identify the source scale and projection that the site boundary feature is derived from.</p>
+",41,,,,,1:50000,,103,102,,,91,1980-2014,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+82,fb361130-7b1e-496d-98c0-f58a122f3c4f,153,en,dataset,1646911798,82,,1,82,GSI Bedrock Geology 1 Million,1646911798,1687434067,,,1,1,1,/dataset/gsi-bedrock-geology-1-million,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/003529a7-2303-4761-8a32-1bffa59a936b"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/003529a7-2303-4761-8a32-1bffa59a936b</a></p>
+
+<p>This map shows the bedrock geology of the island of Ireland, at a scale of 1:1,000,000. This data represents a seamless bedrock geological dataset encompassing Rep of Ireland and parts of Northern Ireland derived from 1:500,000 scale data. It is published by Geological Survey Ireland (GSI) and the Geological Survey of Northern Ireland (GSNI). There are two parts to the data Bedrock Geology &amp; Bedrock Geology Faults. The geology presents the bedrock data from the OneGeology-Europe map project coloured to an Irish lithostratigraphical scheme. It is derived from the GSI 1:500,000 Bedrock Geological map of Ireland and 1:100,000 Bedrock Map Series and the GSNI 1:250,000 Geological Map of Northern Ireland.</p>
+",,1,2,,,,97,,,22,86,,,,49,,46,68,,"<p>This PDF map includes offshore data derived from the EMODnet project map compiled by GSI from Petroleum Affairs Division and INFOMAR mapping and other published sources.</p>
+",41,,,,,1:50000,,103,102,,,91,2005,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+83,35a1ab19-8dce-4a3f-b45e-277fa40bb47d,154,en,dataset,1646912018,82,,1,82,National Soils,1646912018,1687434067,,,1,1,1,/dataset/national-soils,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/40ba5a34-05f8-4b2d-b3ba-5ca6a35cf3fd"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/40ba5a34-05f8-4b2d-b3ba-5ca6a35cf3fd</a></p>
+
+<p>The indicative soils map classifies the soils of Ireland on a categorically simplified but cartographically detailed basis into 25 classes, using an expert rule based methodology. Produced by Teagasc (Kinsealy), EPA and GSI.</p>
+",,1,2,,,,97,,,22,86,,,,50,,46,82,,"<p>Soil maps are out of practical necessity based on surveyors predicting what soils occur on those parts of the landscape that they cannot visit. Key soil forming factors such as vegetation (landcover), topography and geology (parent material) were mapped and a set of rules were applied to these datasets to predict the soils that may occur at any given location in the landscape. These maps were then combined to create a predicted model of soil occurrence. Combination of these inputs provided for a modelled output of predicted soils, with this model output termed Level 1. The model was then extended to a Level 2 predictive model which incorporated topographical variables, previously mapped soil data and other geologically based variables such as subsoil permeability, which increased map accuracy. Predictions are based on expert judgement in combination with pre-existing, mapped data (National Soil Survey (NSS) 1959-1980's at 1:126720; General Soil Map of Ireland, 1969 and 1980 at 1:575,000, Peatland map 1978). Both GIS and remote sensing technologies were used in the process. The OSI 20m DTM was used as part of the topographic analysis.<br />
+A soil series is generally named after the locality where it was first identified and the soils that it represents are best expressed. (Please refer to ""Teagasc-EPA Soils and Subsoils Mapping Project - Final Report"" for more information. Available for download at&nbsp;<a href=""http://gis.epa.ie/"">http://gis.epa.ie</a>)</p>
+",41,,,,,1:50000,,103,102,,,91,1998-2006,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+84,e8c69186-dd78-41fc-94b8-502d95116a67,155,en,dataset,1646912654,82,,1,82,WFD Groundwaterbodies Status 2013-2018,1646912654,1687434067,,,1,1,1,/dataset/wfd-groundwaterbodies-status-2013-2018,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/87a9cce9-c37c-41ab-b50c-f8029d151550"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/87a9cce9-c37c-41ab-b50c-f8029d151550</a></p>
+
+<p>This dataset contains status results based on the assessment of groundwater chemical and quantitative figures in Ireland. This is drawn from representative monitoring points selected specifically for the Water Framework Directive (WFD) groundwater monitoring programme.</p>
+",,1,2,,103,,97,,,22,86,,,,51,,46,58,,"<p>This groundwater status assessment was carried out in 2019 for the period 2013-2018. EPA WFD groundwater quality data from 2013 to 2018 have generally been used, with trends based on data from 2009 to 2018, where available.</p>
+",41,,,,,1:50000,,103,102,,,91,2013-2018,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+85,cde914ba-c327-4bad-b1a7-47f7669380e1,156,en,dataset,1646912892,82,,1,82,WFD Coastal Waterbodies Status 2013-2018,1646912892,1687434067,,,1,1,1,/dataset/wfd-coastal-waterbodies-status-2013-2018,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/603d5978-aecb-4351-9b92-15cf598cbace"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/603d5978-aecb-4351-9b92-15cf598cbace</a></p>
+
+<p>This dataset contains all the Coastal Waterbody Status results recorded in accordance with European Communities (Water Policy) Regulations 2003 (SI No. 722/2003). The regulation objectives include the attainment of good status in waterbodies that are of lesser status at present and retaining good status or better where such status exists</p>
+",,1,2,,103,,97,,,22,86,,,,52,,46,58,,"<p>The EU Water Framework Directive (2000/60/EC) establishes a framework for the protection, improvement and management of surface water and groundwater. The overall aim for surface waters, which include coastal water is to achieve at least good ecological status and good chemical status as well as preventing deterioration in those waters that have been classified as high or good.</p>
+",41,,,,,1:50000,,103,102,,,91,2013-2018,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+86,75d0d8ab-a9a8-4a50-85ac-a51364e2030d,157,en,dataset,1646913060,82,,1,82,WFD Transitional Waterbodies Status 2013-2018,1646913060,1687434067,,,1,1,1,/dataset/wfd-transitional-waterbodies-status-2013-2018,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/3363af8f-a652-4388-abc8-24d305e5d5d0"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/3363af8f-a652-4388-abc8-24d305e5d5d0</a></p>
+
+<p>This dataset contains all the Transitional Waterbody Status results recorded in accordance with European Communities (Water Policy) Regulations 2003 (SI no. 722/2003). The regulation objectives include the attainment of good status in waterbodies that are of lesser status at present and retaining good status or better where such status exists</p>
+",,1,2,,103,,97,,,22,86,,,,53,,46,58,,"<p>The EU Water Framework Directive (2000/60/EC) establishes a framework for the protection, improvement and management of surface and ground waters. The overall aim for surface waters, which include transitional (estuaries and lagoons) is to achieve at least good ecological status and good chemical status as well as preventing deterioration in those waters that have been classified as high or good.</p>
+",41,,,,,1:50000,,103,102,,,91,2013-2018,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+87,fbc4efe2-a0bd-4f24-a0a9-ce113b8af2da,158,en,dataset,1646913219,82,,1,82,WFD Lake Waterbodies Status 2013-2018,1646913219,1687434067,,,1,1,1,/dataset/wfd-lake-waterbodies-status-2013-2018,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/b0f258c3-4ce8-4a4d-9549-316490a59b28"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/b0f258c3-4ce8-4a4d-9549-316490a59b28</a></p>
+
+<p>This dataset contains the status results for lake waterbodies (LWB) monitored as part of the EU Water Framework Directive (2000/60/EC) with the objectives to achieve or maintain at least good ecological status and good chemical status</p>
+",,1,2,,103,,97,,,22,86,,,,54,,46,58,,"<p>Each monitored lake waterbody (LWB) is assigned an ecological status by the EPA based on the lowest status for biological status and general conditions. In LWB, where these are both high, hydromorphology is included and if less than high, a LWB is assigned good ecological status. Biological status is assigned based on the lowest status for all the biological elements assessed. These comprise aquatic flora (macrophytes and phytobenthos), fish (assessed by the Inland Fisheries Ireland) and phytoplankton which are all assessed for surveillance lakes. Macrophytes and the chlorophyll a component of phytoplankton are assessed for operational lakes. General conditions comprise general physic-chemical components which are monitored at all lakes and specific pollutants which are monitored at surveillance lakes only along with priority substances. The latter are assessed separately as chemical status. Not all lakes are monitored, and their status is unassigned.</p>
+",41,,,,,1:50000,,103,102,,,91,2013-2018,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+88,f36f49ad-e532-437c-b519-5789f60494df,159,en,dataset,1646913492,82,,1,82,WFD River Waterbodies Status 2013-2018,1646913492,1687434067,,,1,1,1,/dataset/wfd-river-waterbodies-status-2013-2018,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/aa9593f8-e041-4984-afee-625beb61b67b"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/aa9593f8-e041-4984-afee-625beb61b67b</a></p>
+
+<p>This table contains all the River Waterbody Status results recorded in accordance with European Communities (Water Policy) Regulations 2003 (SI no. 722/2003). The regulation objectives include the attainment of good status in waterbodies that are of lesser status at present and retaining good status or better where such status exists.</p>
+",,1,2,,103,,97,,,22,86,,,,55,,45,58,,"<p>Each Waterbody is monitored by the EPA and assigned an overall status based on the lowest status for the quality elements monitored within that RWB. There are 6 quality elements: Fish, General Physic-chemical, Hydromorphology, MacroInvertebrates, MacroInvertebrates-Margaratifera and Plants –Diatoms. Where physic-chemical results do not fall into Good or Moderate statuses with high confidence, sites are assigned a Pass due to the lower confidence associated with sites that are potentially of High status. The Good and Moderate or Lower categories for general physic-chemical are assigned with a high degree of confidence (i.e. 99% certainty). A schema for status was developed and agreed with the WFD GIS and Data Management group, which includes the waterbody code and a time stamp. It is not possible to monitor all Irish RWBs and the monitoring programme is designed to be representative and to cover the larger RWBs in the state. Not all RWBs are covered and this therefore necessitates extrapolation of status to the unmonitored RWBs from monitored RWBs. The column Extrapolated identifies which waterbodies have been extrapolated and not monitored directly. Where possible, a status is extrapolated from the closest, most similar RWB in terms of typology and risk assessment within the same River Basin District. Cluster analysis was used to assign all RWBs to one of 12 clusters based on their similarity in terms of type and WFD Article 5 point and diffuse risk assessment.</p>
+",41,,,,,1:50000,,103,102,,,91,2013-2018,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+89,e36e49eb-7c58-4aa5-bb88-6c45d6099476,160,en,dataset,1646915221,82,,1,82,River Flow Direction,1646915221,1687434067,,,1,1,1,/dataset/river-flow-direction,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/c4043e19-38ec-4120-a588-8cd01ac94a9c"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/c4043e19-38ec-4120-a588-8cd01ac94a9c</a></p>
+
+<p>This water flow network dataset is a route feature class rather than a simple polyline. The geometry is generated by merging the river lines of individual geometric network datasets. This layer contains an integrated flow network that includes known flow connections through rivers, lakes and groundwater aquifers. In places where the network is depicted flowing through lakes or through underground channels, the flow channels are schematic only, and do not represent the precise location of these flow channels. The appropriate Geological Survey Ireland data sets should be consulted where underground flows or connections are known or suspected.</p>
+",,1,2,,103,,97,,,22,86,,,,56,,45,71,,"<p>The geometry of the rivers were originally generated based on the OSi 50k raster mapping, but has been updated over time as updated information has arisen from local surveys. The associated attribute data comes from a variety of sources, e.g. waterbody codes from the individual waterbody datasets, EPA Code and EPA Name were originally coded by the EPA rivers team for the most part but new smaller stretches can be coded now through the FCT. River orders are generated automatically through EPA tools using the Strahler method.</p>
+",41,,,,,1:10000,,103,102,,,91,2005-2015,54,,1,http://lle.gov.wales/services/wms/nrw,
+90,374c9f50-1e1f-4865-a8eb-9da0dfa8c98c,161,en,dataset,1646915443,82,,1,82,Flow Network (Indicative),1646915443,1687434067,,,1,1,1,/dataset/flow-network-indicative,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/c4043e19-38ec-4120-a588-8cd01ac94a9c"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/c4043e19-38ec-4120-a588-8cd01ac94a9c</a></p>
+
+<p>This water flow network dataset is a route feature class rather than a simple polyline. The geometry is generated by merging the river lines of individual geometric network datasets. This layer contains an integrated flow network that includes known flow connections through rivers, lakes and groundwater aquifers. In places where the network is depicted flowing through lakes or through underground channels, the flow channels are schematic only, and do not represent the precise location of these flow channels. The appropriate Geological Survey Ireland data sets should be consulted where underground flows or connections are known or suspected.</p>
+",,1,2,,103,,97,,,22,86,,,,57,,45,71,,"<p>The geometry of the rivers were originally generated based on the OSi 50k raster mapping, but has been updated over time as updated information has arisen from local surveys. The associated attribute data comes from a variety of sources, e.g. waterbody codes from the individual waterbody datasets, EPA Code and EPA Name were originally coded by the EPA rivers team for the most part but new smaller stretches can be coded now through the FCT. River orders are generated automatically through EPA tools using the Strahler method.</p>
+",41,,,,,1:50000,,103,102,,,91,2005-2015,54,,1,https://gis.epa.ie/geoserver/EPA/wms,
+91,df91b227-4218-4a47-aaf1-1a2a1e43590c,162,en,dataset,1646915643,82,,1,82,Lake Waterbodies,1646915643,1687434067,,,1,1,1,/dataset/lake-waterbodies,,"<p>Metadata link:&nbsp;<a href=""https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/00e92dc9-cb26-4858-889c-0b9b6ea9c9be"">https://gis.epa.ie/geonetwork/srv/eng/catalog.search#/metadata/00e92dc9-cb26-4858-889c-0b9b6ea9c9be</a></p>
+
+<p>These are the lake waterbody polygons delineated in accordance with Guidance Document No. 9: Implementing the Geographical Information System Elements (GIS) of the Water Framework Directive (2003) and Guidance Document No. 22: Updated Guidance on Implementing the Geographical Information System (GIS) Elements of the EU Water policy (November 2008).</p>
+",,1,2,,103,,97,,,22,86,,,,58,,46,71,,"<p>In 2002-2003 polygon geometry from a cartographic source (Ordnance Survey Ireland vector Discovery Series water lines) was attributed with a unique code for each lake polygon and a lake name where a name was visible at 1:50,000. Some local names were also applied from the EPA monitoring program stations list. This Lake Segments layer was used as the base geometry for the Lake Waterbodies polygons. A ""System B"" typology was found to be the most appropriate basis on which to define lake types in Ireland; twelve types have been identified using the factors alkalinity (surrogate for Geology), depth and size.<br />
+Biological data from 60 high status lakes across several types and River Basin Districts were used to test that the selected hydromorphological types, derived from these factors, can be discriminated on a biological basis. A thirteenth type was identified to include a number of lakes at altitude &gt;300m. Latitude and longitude were not considered to be significant factors determining the flora and fauna of Irish lakes.<br />
+The typology and risk assessment of Irish lakes for Article 5 included all lakes greater than 0.5 km² and lakes less than 0.5 km² if they were located in protected areas (e.g. in Special Areas of Conservation, or if they were used for water abstraction for drinking purposes). Spatial Accuracy: data mapped from a 1:50,000 scale source. Thematic AccurIn 2002-2003 polygon geometry from a cartographic source (Ordnance Survey Ireland vector Discovery Series water lines) was attributed with a unique code for each lake polygon and a lake name where a name was visible at 1:50,000. Some local names were also applied from the EPA monitoring program stations list. This Lake Segments layer was used as the base geometry for the Lake Waterbodies polygons. A ‘System B’ typology was found to be the most appropriate basis on which to define lake types in Ireland; twelve types have been identified using the factors alkalinity (surrogate for Geology), depth and size.<br />
+Biological data from 60 high status lakes across several types and River Basin Districts were used to test that the selected hydromorphological types, derived from these factors, can be discriminated on a biological basis. A thirteenth type was identified to include a number of lakes at altitude &gt;300m. Latitude and longitude were not considered to be significant factors determining the flora and fauna of Irish lakes.<br />
+The typology and risk assessment of Irish lakes for Article 5 included all lakes greater than 0.5 km² and lakes less than 0.5 km² if they were located in protected areas (e.g. in Special Areas of Conservation, or if they were used for water abstraction for drinking purposes). Spatial Accuracy: data mapped from a 1:50,000 scale source. Thematic Accuracy: Lake Waterbody attributes are based on type criteria originating from the WFD System B typology. Altitude data came from a 20m resolution DTM. Alkalinity categories came from Geological Survey Ireland source data. Currency: Geometry from the 1:50,000 OS Discovery Series, published in 1998 Logical Consistency: The dataset meets the topological requirements set out in Guidance Document No. 22: Support for Reporting of RBMP, Guidance on reporting of spatial data.<br />
+acy: Lake Waterbody attributes are based on type criteria originating from the WFD System B typology. Altitude data came from a 20m resolution DTM. Alkalinity categories came from Geological Survey Ireland source data. Currency: Geometry from the 1:50,000 OS Discovery Series, published in 1998 Logical Consistency: The dataset meets the topological requirements set out in Guidance Document No. 22: Support for Reporting of RBMP, Guidance on reporting of spatial data.</p>
+",41,,,,,1:50000,,103,102,,,91,2010,54,,1,http://lle.gov.wales/services/wms/nrw,
+92,8f1b223f-7f8c-454b-b7ec-4b963176a5e3,163,en,dataset,1646916980,82,,1,82,NDMI,1646916980,1687434067,,,1,1,1,/dataset/ndmi,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The normalized difference moisture index describes the crop's water stress level by monitoring the leaf moisture content.&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that monitors crop moisture content and water stress.&nbsp;</p>
+
+<h2>Satellite</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a></p>
+
+<h2>Detailed Description</h2>
+
+<p>Further info and links at <a href=""https://custom-scripts.sentinel-hub.com/sentinel-2/ndmi/"">https://custom-scripts.sentinel-hub.com/sentinel-2/ndmi/</a>&nbsp;</p>
+
+<p>Further technical information is accessible in this scientific article:&nbsp;<br />
+Gao, B.-C. 1996. NDWI - A normalized difference water index for remote sensing of vegetation liquid water from space. Remote Sensing of Environment 58: 257-266. <a href=""https://www.sciencedirect.com/science/article/abs/pii/S0034425796000673"">Link to Article</a>&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,59,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,20 metres,,118,42,,,92,2018 to present,54,120,1,,
+93,a3cb9d52-069b-43b0-a101-a45758de50cd,164,en,dataset,1646917092,82,,1,82,NDVI,1646917092,1687434067,,,1,1,1,/dataset/ndvi,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The normalized difference vegetation index is a simple, but effective index for quantifying green vegetation.&nbsp;</p>
+
+<p>© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that is widely used for live green vegetation monitoring, using an indicator that helps assess the density, health, and growth stage of crops.</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a>&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>This is one of the data bands in the Vegetation Indices, Daily collection:&nbsp;<br />
+<a href=""https://collections.sentinel-hub.com/vegetation-indices/"">https://collections.sentinel-hub.com/vegetation-indices/</a>&nbsp;</p>
+
+<p>Technical details can be found in the Product User Manual:&nbsp;<br />
+<a href=""https://land.copernicus.eu/user-corner/technical-library/product-user-manual-of-vegetation-indices/"">https://land.copernicus.eu/user-corner/technical-library/product-user-manual-of-vegetation-indices/</a>&nbsp;&nbsp;</p>
+
+<p>Further technical information is accessible in this scientific article:&nbsp;<br />
+Feng Tian, Zhanzhang Cai, Hongxiao Jin, Koen Hufkens, Helfried Scheifinger, Torbern Tagesson, Bruno Smets, Roel Van Hoolst, Kasper Bonte, Eva Ivits, Xiaoye Tong, Jonas Ardö, Lars Eklundh, 2021: Calibrating vegetation phenology from Sentinel-2 using eddy covariance, PhenoCam, and PEP725 networks across Europe. Remote Sensing of Environment, Volume 260, ISSN 0034-4257, <a href=""https://doi.org/10.1016/j.rse.2021.112456"">https://doi.org/10.1016/j.rse.2021.112456</a></p>
+
+<p>&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,60,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,10 metres,,118,42,,,92,2016 to present,54,119,1,,
+126,14bf480d-c235-4202-9b3c-0fb94ccb7476,197,en,dataset,1647874142,82,,1,82,WFD Transitional Waterbodies Cycle 2,1647874142,1687434067,,,1,1,1,/dataset/wfd-transitional-waterbodies-cycle-2,,"<p>Metadata link:&nbsp;<a href=""https://libcat.naturalresources.wales/folio/?oid=116272"">https://libcat.naturalresources.wales/folio/?oid=116272</a></p>
+
+<p>'Water Framework Directive (WFD) Transitional Waterbodies' is a polygon Shapefile dataset containing attributes that have been collated as defined for the implementation of the Water Framework Directive (WFD). Article 2, clause 6 of the WFD defines them as '...bodies of surface water in the vicinity of river mouths which are partly saline in character as a result of their proximity to coastal waters but are substantially influenced by freshwater flows'. Transitional waterbodies were defined from Mean High Water boundaries, taken directly from OS 1:50K MeridianTM 2, and NRW estuarine boundaries defined for the Urban Waste Water Treatment Directive (UWWTD). Since waterbodies are attributed with a unique identifier 'EA_WB_ID' this dataset can be linked directly to other WFD data sources such as physical characteristics, risk, classification and proposed objectives. These data apply to Cycle 2 of the Water Framework Directive.</p>
+",,1,2,,,,113,,,22,86,,,,93,,46,58,,"<p>This was created from originally from OS data and territorial waters / coastal waters data as described in the abstract. The Cycle 2 version represents a minor update of the Cycle 1 dataset.</p>
+",41,,,,,1:50000,,100,89,,,90,2015-2018,54,,1,http://lle.gov.wales/services/wms/nrw,
+127,4b9ec123-4b25-416b-a3bb-2d89b703aacf,198,en,dataset,1647874231,82,,1,82,WFD River Waterbodies Cycle 2,1647874231,1687434067,,,1,1,1,/dataset/wfd-river-waterbodies-cycle-2,,"<p>Metadata link:&nbsp;<a href=""https://libcat.naturalresources.wales/folio/?oid=116269"">https://libcat.naturalresources.wales/folio/?oid=116269</a></p>
+
+<p>The Water Framework Directive (WFD) River Waterbodies Cycle 2 are a spatial (polygon) dataset collated as defined for the implementation of the Water Framework Directive. 'WFD River Waterbodies Cycle 2' is a subset extracted from the NRW's Detailed River Network (DRN). Updated to 2018 version</p>
+",,1,2,,100,,113,,,22,86,,,,94,,45,58,,"<p>'WFD River Waterbodies Cycle 2' is a subset extracted from the NRW's Detailed River Network (DRN). Other input datasets and extensive local Natural Resources Wales staff knowledge has been used to augment the core geometry to incorporate critical spatial detail and attribution, such as flow direction and path, not available from the OS mapping and to verify the accuracy of the centreline itself. Sections of DRN belonging to a particular waterbody have been merged together so that a defined waterbody is a single record within the dataset (rather than being made up of hundreds of records within the DRN). DRN attributes become obsolete at this point and waterbody specific attribution has been added. Therefore the geometry for the resulting waterbodies is taken from the DRN, but the attribution and number of records is very different. Not all sections of the DRN belong to defined waterbodies and the final WFD river waterbody dataset represents &lt;20% of the online DRN.<br />
+<br />
+Information Warning<br />
+Anomalous results were observed at freshwater sampling points throughout Wales for orthophosphate between January 2014 and December 2016. This data was used as part of the 3-year data set which informed the 2015 WFD classification and affected the outcome of that exercise. Please refer to the Supporting Documentation on the Lle website for further information.</p>
+",41,,,,,,,100,89,,,90,2015-2018,54,,1,http://lle.gov.wales/services/wms/nrw,
+128,f262a1a7-da13-4d44-b193-183aa97f70e0,199,en,dataset,1647874323,82,,1,82,WFD Lake Waterbodies Cycle 2,1647874323,1687434067,,,1,1,1,/dataset/wfd-lake-waterbodies-cycle-2,,"<p>Metadata link:&nbsp;<a href=""https://libcat.naturalresources.wales/folio/?oid=116270"">https://libcat.naturalresources.wales/folio/?oid=116270</a></p>
+
+<p>Water Framework Directive (WFD) Lake Waterbodies Cycle 2 is a polygon Shapefile dataset containing Water Framework Directive (WFD) attributes that have been collated as defined for the implementation of the Water Framework Directive. Article 2, clause 5 of the WFD defines them as '...a body of standing inland surface water'. There is data on the physical characteristics, risk, classification and proposed objectives that can be linked to waterbodies by their unique identifiers. Artificial and modified lake waterbodies are included within this dataset, however, generally only lakes above &gt; 50 hectares were assessed under the WFD except for lakes in protected areas, where a minimum of 5.0 ha was used. Lakes below this threshold are not included within this dataset unless allocated as Sites of Special Scientific Interest (SSSI). Each waterbody has been assigned 'EA_WB_ID', which is a unique identifier that enables a link to WFD attributes. These data apply to Cycle 2 of the Water Framework Directive. Updated to 2018 version</p>
+",,1,2,,,,113,,,22,86,,,,95,,46,58,,"<p>This data was created from the UK Lake Inventory dataset which itself took geometry from 1:50 k OS products. Cycle 2 data is currently just slightly adapted from Cycle 1 data with some lakes having been subdivided and some new ones added.</p>
+",41,,,,,1:50000,,114,89,,,90,2013-2015,54,,1,http://lle.gov.wales/services/wms/nrw,
+129,fc19d177-6a6a-4c14-8cc5-2a1d2dd77d6b,200,en,dataset,1647881731,82,,1,82,NDWI,1647881731,1651831078,,,1,1,1,/dataset/ndwi,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The normalized difference water index describes water content in water bodies.&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that monitors open water content of water bodies.&nbsp;</p>
+
+<h2>Satellite</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a></p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information at these links:&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://custom-scripts.sentinel-hub.com/sentinel-2/ndwi/"">https://custom-scripts.sentinel-hub.com/sentinel-2/ndwi/</a>,&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://eos.com/make-an-analysis/ndwi/"">https://eos.com/make-an-analysis/ndwi/</a>&nbsp;&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,96,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,20 metres,,118,42,,,92,2018 to present,54,120,1,,
+130,0b588845-5de8-41d9-a899-02c87400d624,201,en,dataset,1647881891,82,,1,82,True Colour,1647881891,1687434067,,,1,1,1,/dataset/true-colour,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>Simplistic true colour image.&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows a natural colour image of an area.&nbsp;</p>
+
+<h2>Satellite</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a></p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information at these links:</p>
+
+<p lang=""EN-US""><a href=""https://custom-scripts.sentinel-hub.com/sentinel-2/true_color/"">https://custom-scripts.sentinel-hub.com/sentinel-2/true_color/</a>&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://github.com/sentinel-hub/natural-color"">https://github.com/sentinel-hub/natural-color</a></p>
+",,1,2,,117,,115,,,21,86,,,,97,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,20 metres,,118,42,,,92,2018 to present,54,120,1,,
+131,f19938f5-fa33-4340-8fd8-6efccf9f05e6,202,en,dataset,1647882155,82,,1,82,Water Bodies,1647882155,1687434067,,,1,1,1,/dataset/water-bodies,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>Water bodies layer, showing water and non-water.&nbsp;&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows the presence of permanent and seasonal water bodies.</p>
+
+<h2>Satellite</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a></p>
+
+<h2>Detailed Description</h2>
+
+<p>More information about the data can be obtained from the links at:</p>
+
+<p><a href=""https://land.copernicus.eu/global/products/wb"">https://land.copernicus.eu/global/products/wb</a>&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://collections.sentinel-hub.com/water-bodies/"">https://collections.sentinel-hub.com/water-bodies/</a>&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://github.com/sentinel-hub/public-collections/tree/main/collections/water-bodies"">https://github.com/sentinel-hub/public-collections/tree/main/collections/water-bodies</a>&nbsp;&nbsp;</p>
+
+<p lang=""EN-US"">Product User Manual is at:</p>
+
+<p lang=""EN-US""><a href=""https://land.copernicus.eu/global/sites/cgls.vito.be/files/products/CGLOPS2_PUM_WB100m_V1_I1.10.pdf"">https://land.copernicus.eu/global/sites/cgls.vito.be/files/products/CGLOPS2_PUM_WB100m_V1_I1.10.pdf</a></p>
+",,1,2,,117,,115,,,21,86,,,,98,,39,71,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,100 metres,,116,42,,,92,2018 to present,54,24,1,,
+132,c641b551-afd8-4fd9-a6a3-d9bbc344a50d,203,en,dataset,1647882572,82,,1,82,Global Surface Water Extent,1647882572,1687434067,,,1,1,1,/dataset/global-surface-water-extent,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>A map that shows the maximum extent of surface water bodies in the entire time range.&nbsp;</p>
+
+<p>Source: EC JRC/Google&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows all the locations ever detected as water over the 37-year period.&nbsp;&nbsp;</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Landsat 5 - <a href=""https://www.usgs.gov/landsat-missions/landsat-5"">https://www.usgs.gov/landsat-missions/landsat-5</a>&nbsp;&nbsp;</p>
+
+<p>Landsat 7 - <a href=""https://www.usgs.gov/landsat-missions/landsat-7"">https://www.usgs.gov/landsat-missions/landsat-7</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Landsat 8 - <a href=""https://www.usgs.gov/landsat-missions/landsat-8"">https://www.usgs.gov/landsat-missions/landsat-8</a>&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://global-surface-water.appspot.com/"">https://global-surface-water.appspot.com/</a>&nbsp;</p>
+
+<p>This is one of the data bands in the Global Surface Water collection:&nbsp;<br />
+<a href=""https://collections.sentinel-hub.com/global-surface-water/"">https://collections.sentinel-hub.com/global-surface-water/</a>&nbsp;&nbsp;</p>
+
+<p>FAQs are at <a href=""https://global-surface-water.appspot.com/faq"">https://global-surface-water.appspot.com/faq</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>The original Global Surface Water map is viewable at:&nbsp;<br />
+<a href=""https://global-surface-water.appspot.com/map"">https://global-surface-water.appspot.com/map</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Technical details can be found in the Data User’s Guide:&nbsp;<br />
+<a href=""https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf"">https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>A full account of the Global Surface Water project is given in: &nbsp;<br />
+Jean-Francois Pekel, Andrew Cottam, Noel Gorelick, Alan S. Belward, High-resolution mapping of global surface water and its long-term changes. Nature 540, 418-422 (2016). <a href=""https://www.nature.com/articles/nature20584.epdf?author_access_token=C5JSvooRop4jWxyp_qRPLNRgN0jAjWel9jnR3ZoTv0MqBuzCNsmw_DFxRd7sX93nfPzcbm_xTiPLlZMl7XrUhadm6EiT9cGdDNgn1s6EWrPWH3IeadLUjApplBoaS6xH"">(doi:10.1038/nature20584)</a>&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,99,,39,71,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,30 metres,,116,42,,,92,1984 to 2020,54,94,1,,
+133,45385a78-c8d8-41ad-9a53-8e1128c59acc,204,en,dataset,1647883309,82,,1,82,Global Surface Water Occurrence,1647883309,1687434067,,,1,1,1,/dataset/global-surface-water-occurrence,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>A map that shows the intra- and inter-annual frequency of surface water presence in the entire time range.&nbsp;</p>
+
+<p>Source: EC JRC/Google&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows how frequently there was surface water, as a percentage of the whole 37-year study period.&nbsp;</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Landsat 5 - <a href=""https://www.usgs.gov/landsat-missions/landsat-5"">https://www.usgs.gov/landsat-missions/landsat-5</a>&nbsp;&nbsp;</p>
+
+<p>Landsat 7 - <a href=""https://www.usgs.gov/landsat-missions/landsat-7"">https://www.usgs.gov/landsat-missions/landsat-7</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Landsat 8 - <a href=""https://www.usgs.gov/landsat-missions/landsat-8"">https://www.usgs.gov/landsat-missions/landsat-8</a>&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://global-surface-water.appspot.com/"">https://global-surface-water.appspot.com/</a>&nbsp;</p>
+
+<p>This is one of the data bands in the Global Surface Water collection:&nbsp;<br />
+<a href=""https://collections.sentinel-hub.com/global-surface-water/"">https://collections.sentinel-hub.com/global-surface-water/</a>&nbsp;&nbsp;</p>
+
+<p>FAQs are at <a href=""https://global-surface-water.appspot.com/faq"">https://global-surface-water.appspot.com/faq</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>The original Global Surface Water map is viewable at:&nbsp;<br />
+<a href=""https://global-surface-water.appspot.com/map"">https://global-surface-water.appspot.com/map</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Technical details can be found in the Data User’s Guide:&nbsp;<br />
+<a href=""https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf"">https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>A full account of the Global Surface Water project is given in: &nbsp;<br />
+Jean-Francois Pekel, Andrew Cottam, Noel Gorelick, Alan S. Belward, High-resolution mapping of global surface water and its long-term changes. Nature 540, 418-422 (2016). <a href=""https://www.nature.com/articles/nature20584.epdf?author_access_token=C5JSvooRop4jWxyp_qRPLNRgN0jAjWel9jnR3ZoTv0MqBuzCNsmw_DFxRd7sX93nfPzcbm_xTiPLlZMl7XrUhadm6EiT9cGdDNgn1s6EWrPWH3IeadLUjApplBoaS6xH"">(doi:10.1038/nature20584)</a></p>
+",,1,2,,117,,115,,,21,86,,,,100,,39,71,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,30 metres,,116,42,,,92,1984 to 2020,54,94,1,,
+134,c0adcb0c-522a-409b-b84e-cefd99932c99,205,en,dataset,1647883497,82,,1,82,Global Surface Water Recurrence,1647883497,1687434067,,,1,1,1,/dataset/global-surface-water-recurrence,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>A map that shows the variability in the presence of water from year to year.&nbsp;</p>
+
+<p lang=""EN-US"">Source: EC JRC/Google&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows a percentage frequency of water returning to the same location in consecutive years.&nbsp;</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Landsat 5 - <a href=""https://www.usgs.gov/landsat-missions/landsat-5"">https://www.usgs.gov/landsat-missions/landsat-5</a>&nbsp;&nbsp;</p>
+
+<p>Landsat 7 - <a href=""https://www.usgs.gov/landsat-missions/landsat-7"">https://www.usgs.gov/landsat-missions/landsat-7</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Landsat 8 - <a href=""https://www.usgs.gov/landsat-missions/landsat-8"">https://www.usgs.gov/landsat-missions/landsat-8</a>&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://global-surface-water.appspot.com/"">https://global-surface-water.appspot.com/</a>&nbsp;&nbsp;</p>
+
+<p>This is one of the data bands in the Global Surface Water collection:&nbsp;<br />
+<a href=""https://collections.sentinel-hub.com/global-surface-water/"">https://collections.sentinel-hub.com/global-surface-water/</a>&nbsp;&nbsp;</p>
+
+<p>FAQs are at <a href=""https://global-surface-water.appspot.com/faq"">https://global-surface-water.appspot.com/faq</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>The original Global Surface Water map is viewable at:&nbsp;<br />
+<a href=""https://global-surface-water.appspot.com/map"">https://global-surface-water.appspot.com/map</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Technical details can be found in the Data User’s Guide:&nbsp;<br />
+<a href=""https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf"">https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>A full account of the Global Surface Water project is given in: &nbsp;<br />
+Jean-Francois Pekel, Andrew Cottam, Noel Gorelick, Alan S. Belward, High-resolution mapping of global surface water and its long-term changes. Nature 540, 418-422 (2016). <a href=""https://www.nature.com/articles/nature20584.epdf?author_access_token=C5JSvooRop4jWxyp_qRPLNRgN0jAjWel9jnR3ZoTv0MqBuzCNsmw_DFxRd7sX93nfPzcbm_xTiPLlZMl7XrUhadm6EiT9cGdDNgn1s6EWrPWH3IeadLUjApplBoaS6xH"">(doi:10.1038/nature20584)</a>&nbsp;</p>
+
+<p>&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,101,,39,71,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,30 metres,,116,42,,,92,1984 to 2020,54,94,1,,
+135,20caa78f-6373-449a-959f-bd580da08939,206,en,dataset,1647883807,82,,1,82,Global Surface Water Seasonality,1647883807,1687434067,,,1,1,1,/dataset/global-surface-water-seasonality,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>A map that shows the number of months that water was present from January to December in the year of review.&nbsp;&nbsp;</p>
+
+<p lang=""EN-US"">Source: EC JRC/Google&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map of permanent and seasonal water bodies, and see the areas that were covered by surface water for more or less of each recorded year.</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Landsat 5 - <a href=""https://www.usgs.gov/landsat-missions/landsat-5"">https://www.usgs.gov/landsat-missions/landsat-5</a>&nbsp;&nbsp;</p>
+
+<p>Landsat 7 - <a href=""https://www.usgs.gov/landsat-missions/landsat-7"">https://www.usgs.gov/landsat-missions/landsat-7</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Landsat 8 - <a href=""https://www.usgs.gov/landsat-missions/landsat-8"">https://www.usgs.gov/landsat-missions/landsat-8</a>&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:&nbsp;</p>
+
+<p lang=""EN-US"">&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://global-surface-water.appspot.com/"">https://global-surface-water.appspot.com/</a>&nbsp;</p>
+
+<p>This is one of the data bands in the Global Surface Water collection:&nbsp;<br />
+<a href=""https://collections.sentinel-hub.com/global-surface-water/"">https://collections.sentinel-hub.com/global-surface-water/</a>&nbsp;&nbsp;</p>
+
+<p>FAQs are at <a href=""https://global-surface-water.appspot.com/faq"">https://global-surface-water.appspot.com/faq</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>The original Global Surface Water map is viewable at:&nbsp;<br />
+<a href=""https://global-surface-water.appspot.com/map"">https://global-surface-water.appspot.com/map</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Technical details can be found in the Data User’s Guide:&nbsp;<br />
+<a href=""https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf"">https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>A full account of the Global Surface Water project is given in: &nbsp;<br />
+Jean-Francois Pekel, Andrew Cottam, Noel Gorelick, Alan S. Belward, High-resolution mapping of global surface water and its long-term changes. Nature 540, 418-422 (2016). <a href=""https://www.nature.com/articles/nature20584.epdf?author_access_token=C5JSvooRop4jWxyp_qRPLNRgN0jAjWel9jnR3ZoTv0MqBuzCNsmw_DFxRd7sX93nfPzcbm_xTiPLlZMl7XrUhadm6EiT9cGdDNgn1s6EWrPWH3IeadLUjApplBoaS6xH"">(doi:10.1038/nature20584)</a>&nbsp;</p>
+
+<p>&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,102,,39,71,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,30 metres,,116,42,,,92,2018 to present,54,94,1,,
+136,e09bea41-8e56-4540-906b-af8c661bc53e,207,en,dataset,1647884119,82,,1,82,Global Surface Water Transitions,1647884119,1687434067,,,1,1,1,/dataset/global-surface-water-transitions,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>A map that visualises changes in the three surface water classes (1) not water, (2) seasonal water, and (3) permanent water, between the first and last year in the entire time period.&nbsp;</p>
+
+<p lang=""EN-US"">Source: EC JRC/Google&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows eleven different transition categories of how the seasonality of surface water has changed between 1984 and 2020, e.g. if there was permanent surface water for both the 1984 and 2020, or if it changed from permanent to seasonal water.</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Landsat 5 - <a href=""https://www.usgs.gov/landsat-missions/landsat-5"">https://www.usgs.gov/landsat-missions/landsat-5</a>&nbsp;&nbsp;</p>
+
+<p>Landsat 7 - <a href=""https://www.usgs.gov/landsat-missions/landsat-7"">https://www.usgs.gov/landsat-missions/landsat-7</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Landsat 8 - <a href=""https://www.usgs.gov/landsat-missions/landsat-8"">https://www.usgs.gov/landsat-missions/landsat-8</a>&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://global-surface-water.appspot.com/"">https://global-surface-water.appspot.com/</a>&nbsp;</p>
+
+<p>This is one of the data bands in the Global Surface Water collection:&nbsp;<br />
+<a href=""https://collections.sentinel-hub.com/global-surface-water/"">https://collections.sentinel-hub.com/global-surface-water/</a>&nbsp;&nbsp;</p>
+
+<p>FAQs are at <a href=""https://global-surface-water.appspot.com/faq"">https://global-surface-water.appspot.com/faq</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>The original Global Surface Water map is viewable at:&nbsp;<br />
+<a href=""https://global-surface-water.appspot.com/map"">https://global-surface-water.appspot.com/map</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Technical details can be found in the Data User’s Guide:&nbsp;<br />
+<a href=""https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf"">https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>A full account of the Global Surface Water project is given in: &nbsp;<br />
+Jean-Francois Pekel, Andrew Cottam, Noel Gorelick, Alan S. Belward, High-resolution mapping of global surface water and its long-term changes. Nature 540, 418-422 (2016). <a href=""https://www.nature.com/articles/nature20584.epdf?author_access_token=C5JSvooRop4jWxyp_qRPLNRgN0jAjWel9jnR3ZoTv0MqBuzCNsmw_DFxRd7sX93nfPzcbm_xTiPLlZMl7XrUhadm6EiT9cGdDNgn1s6EWrPWH3IeadLUjApplBoaS6xH"">(doi:10.1038/nature20584)</a></p>
+",,1,2,,117,,115,,,21,86,,,,103,,39,71,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,30 metres,,116,42,,,92,1984 to 2020,54,94,1,,
+137,d88529e0-9b72-4420-b0da-7107eb66fbda,208,en,dataset,1647941606,82,,1,82,CORINE Land Cover,1647941606,1687434067,,,1,1,1,/dataset/corine-land-cover,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The CORINE Land Cover (CLC) inventory consists of 44 land cover and land use classes derived from a series of satellite missions since it was first established.</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that visualises the type of land cover.</p>
+
+<h2>Satellite</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a></p>
+
+<p>Landsat-8 - <a href=""https://www.usgs.gov/landsat-missions/landsat-8"">https://www.usgs.gov/landsat-missions/landsat-8</a></p>
+
+<h2>Detailed Description</h2>
+
+<p lang=""EN-US"">Further information at these links:&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://collections.sentinel-hub.com/corine-land-cover/"">https://collections.sentinel-hub.com/corine-land-cover/</a>&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://github.com/sentinel-hub/public-collections/tree/main/collections/corine-land-cover"">https://github.com/sentinel-hub/public-collections/tree/main/collections/corine-land-cover</a></p>
+",,1,2,,117,,115,,,21,86,,,,104,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,100 metres,,118,122,,,92,1990 to 2018,54,121,1,,
+138,1271fddf-e646-484f-8406-f151925149c6,209,en,dataset,1647942071,82,,1,82,Global Land Cover,1647942071,1687434067,,,1,1,1,/dataset/global-land-cover,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The Global Land Cover inventory consists of 23 land cover classes.</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that visualises the type of land cover.</p>
+
+<h2>Satellite</h2>
+
+<p>PROBA-V - <a href=""https://earth.esa.int/eogateway/missions/proba-v"">https://earth.esa.int/eogateway/missions/proba-v</a>&nbsp;&nbsp;</p>
+
+<p>Sentinel 1 - <a href=""https://sentinel.esa.int/web/sentinel/missions/sentinel-1"">https://sentinel.esa.int/web/sentinel/missions/sentinel-1</a>&nbsp;&nbsp;</p>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a>&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p lang=""EN-US"">Further information at these links:&nbsp;</p>
+
+<p lang=""EN-US"">&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://land.copernicus.eu/global/products/lc"">https://land.copernicus.eu/global/products/lc</a>&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://collections.sentinel-hub.com/global-land-cover/readme.html"">https://collections.sentinel-hub.com/global-land-cover/readme.html</a></p>
+
+<p lang=""EN-US"">Product User Manual is at <a href=""https://land.copernicus.eu/global/sites/cgls.vito.be/files/products/CGLOPS1_PUM_LC100m-V3_I3.4.pdf"">https://land.copernicus.eu/global/sites/cgls.vito.be/files/products/CGLOPS1_PUM_LC100m-V3_I3.4.pdf</a></p>
+
+<p lang=""EN-US"">&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,105,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,100 metres,,118,42,,,92,2015 to present,54,94,1,,
+139,af20a5c7-7ff2-42c7-8dbc-ce910ec12b7e,210,en,dataset,1647942439,82,,1,82,VPP Total Productivity (TPROD),1647942439,1687434067,,,1,1,1,/dataset/vpp-total-productivity-tprod,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The Vegetation Phenology and Productivity parameter (VPP) layers each describe a metric of yearly vegetation development. Total productivity (TPROD) is the annual sum of plant phenology index (PPI) values minus their base value.</p>
+
+<p>© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map with data about yearly crop vegetation development. TPROD is a measure of the productivity accumulated through the year.</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a>&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>More information at these links:&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://land.copernicus.eu/pan-european/biophysical-parameters/high-resolution-vegetation-phenology-and-productivity/vegetation-phenology-and-productivity"">https://land.copernicus.eu/pan-european/biophysical-parameters/high-resolution-vegetation-phenology-and-productivity/vegetation-phenology-and-productivity</a>&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://collections.sentinel-hub.com/vegetation-phenology-and-productivity-parameters-season-1/"">https://collections.sentinel-hub.com/vegetation-phenology-and-productivity-parameters-season-1/</a>&nbsp;</p>
+
+<p>The product user manual is at <a href=""https://land.copernicus.eu/user-corner/technical-library/product-user-manual-of-seasonal-trajectories/"">https://land.copernicus.eu/user-corner/technical-library/product-user-manual-of-seasonal-trajectories/</a></p>
+",,1,2,,117,,115,,,21,86,,,,106,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,10 metres,,118,122,,,92,2017 to present,54,94,1,,
+140,7ae0ffce-6deb-4196-8617-e9ca0d97db92,211,en,dataset,1647943135,82,,1,82,Mapzen DEM,1647943135,1687434067,,,1,1,1,/dataset/mapzen-dem,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>Mapzen DEM (Digital Elevation Model) is a digital model of the world’s surface, in which each pixel gives a height value of metres above (+) or below (-) sea level.</p>
+
+<p>Produced using Copernicus data and information funded by the European Union - EU-DEM layers.</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows a model of the earth surface and gives terrain surface heights above and below sea level.</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>SRTM - <a href=""https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm"">https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm</a>&nbsp;</p>
+
+<p>GMTED - <a href=""https://www.usgs.gov/coastal-changes-and-impacts/gmted2010"">https://www.usgs.gov/coastal-changes-and-impacts/gmted2010</a>&nbsp;</p>
+
+<p>And others – full list at <a href=""https://github.com/tilezen/joerd/blob/master/docs/data-sources.md"">https://github.com/tilezen/joerd/blob/master/docs/data-sources.md</a>&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:&nbsp;</p>
+
+<p><a href=""https://collections.sentinel-hub.com/mapzen-dem/"">https://collections.sentinel-hub.com/mapzen-dem/</a>&nbsp;&nbsp;</p>
+
+<p><a href=""https://docs.sentinel-hub.com/api/latest/data/dem/"">https://docs.sentinel-hub.com/api/latest/data/dem/</a>&nbsp;</p>
+
+<p><a href=""https://github.com/tilezen/joerd/tree/master/docs"">https://github.com/tilezen/joerd/tree/master/docs</a>&nbsp;</p>
+
+<p>Info about ground resolution:&nbsp;<a href=""https://github.com/tilezen/joerd/blob/master/docs/data-sources.md#what-is-the-ground-resolution"">https://github.com/tilezen/joerd/blob/master/docs/data-sources.md#what-is-the-ground-resolution</a>&nbsp;&nbsp;</p>
+
+<p>Info about update frequency:&nbsp;<a href=""https://github.com/tilezen/joerd/blob/master/docs/data-sources.md#data-updates"">https://github.com/tilezen/joerd/blob/master/docs/data-sources.md#data-updates</a></p>
+
+<p>&nbsp;</p>
+",,1,2,,117,,123,,,21,86,,,,107,,39,63,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,Varies with zoom level and latitude,,124,,,,92,Static (2017),54,94,1,,
+141,0f0f0947-a5ff-451e-b12d-6f48236714e8,212,en,dataset,1647945360,82,,1,82,Seasonal Trajectories PPI – 10-daily,1647945360,1687434067,,,1,1,1,/dataset/seasonal-trajectories-ppi-10-daily,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The Vegetation Phenology and Productivity parameter (VPP) layers each describe a metric of yearly vegetation development. The Seasonal Trajectories (STs) are 10-daily gap-filled products. They provide the vegetation status for each pixel for each 10 days in the calendar year.</p>
+
+<p>© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map with data about yearly crop vegetation development. Seasonal Trajectories&nbsp;plant phenology index (PPI)&nbsp;gives a time series of the vegetation development through the course of the year.</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a>&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information at these links:&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://collections.sentinel-hub.com/seasonal-trajectories/"">https://collections.sentinel-hub.com/seasonal-trajectories/</a> &nbsp;</p>
+
+<p lang=""EN-US"">Product user manual: <a href=""https://land.copernicus.eu/user-corner/technical-library/product-user-manual-of-seasonal-trajectories/"">https://land.copernicus.eu/user-corner/technical-library/product-user-manual-of-seasonal-trajectories/</a></p>
+
+<p>&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,108,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,10 metres,,118,122,,,92,2017 to present,54,94,1,,
+142,e7a6901c-64a2-4b89-99a4-f7cb3f525a49,213,en,dataset,1647945882,82,,1,82,Riparian Zones – Delineation,1647945882,1687434067,,,1,1,1,/dataset/riparian-zones-delineation,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The Riparian Zones Delineation product shows areas with &gt; 50% probability&nbsp;of being actual, observable, and potential extents of riparian zones.</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>Users can view a map with three riparian zone categories, showing the areas calculated as likely to be actual, observable, or potential riparian zones.</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Not specified due to complexity of spatial modelling with multiple inputs.</p>
+
+<h2>Detailed Description</h2>
+
+<p><a href=""https://land.copernicus.eu/local/riparian-zones/view"">https://land.copernicus.eu/local/riparian-zones/view</a>&nbsp;</p>
+
+<p><a href=""https://land.copernicus.eu/local/riparian-zones/riparian-zones-delineation?tab=metadata"">https://land.copernicus.eu/local/riparian-zones/riparian-zones-delineation?tab=metadata</a>&nbsp;</p>
+
+<p>&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,109,,39,72,,"<p>See the ‘Lineage’ subheading at <a href=""https://land.copernicus.eu/local/riparian-zones/riparian-zones-delineation?tab=metadata"">https://land.copernicus.eu/local/riparian-zones/riparian-zones-delineation?tab=metadata</a></p>
+",,,,https://github.com/ECHOESProj/eo-custom-scripts,,5 metres,,118,122,,,92,2011 to 2013,54,,1,,
+143,abdfcb01-ab95-400c-b67b-a876cc62f365,214,en,dataset,1647946702,82,,1,82,Riparian Zones – Land Cover / Land Use 2012,1647946702,1687434067,,,1,1,1,/dataset/riparian-zones-land-cover-land-use-2012,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The Land Cover / Land Use 2012 product covers a variable buffer zone of selected rivers.</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>Users can view a map that shows land cover / land use classifications in riparian zones for the period around 2012.</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>SPOT 5 -&nbsp;<a href=""https://earth.esa.int/web/eoportal/satellite-missions/s/spot-5"">https://earth.esa.int/web/eoportal/satellite-missions/s/spot-5</a></p>
+
+<p>SPOT 6 -&nbsp; <a href=""https://earth.esa.int/web/eoportal/satellite-missions/s/spot-6-7"">https://earth.esa.int/web/eoportal/satellite-missions/s/spot-6-7</a></p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:&nbsp;</p>
+
+<p><a href=""https://land.copernicus.eu/local/"">https://land.copernicus.eu/local</a>&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://land.copernicus.eu/user-corner/technical-library/riparian_zones_nomenclature_guide"">https://land.copernicus.eu/user-corner/technical-library/riparian_zones_nomenclature_guide</a> &nbsp;</p>
+
+<p><a href=""https://land.copernicus.eu/local/riparian-zones/view"">https://land.copernicus.eu/local/riparian-zones/view</a>&nbsp;</p>
+
+<p><a href=""https://land.copernicus.eu/local/riparian-zones/riparian-zones-2018?tab=metadata"">https://land.copernicus.eu/local/riparian-zones/riparian-zones-2012?tab=metadata</a></p>
+",,1,2,,118,,115,,,21,86,,,,110,,39,72,,"<p>See the ‘Lineage’ subheading at <a href=""https://land.copernicus.eu/local/riparian-zones/riparian-zones-delineation?tab=metadata"">https://land.copernicus.eu/local/riparian-zones/riparian-zones-2012?tab=metadata</a></p>
+",,,,https://github.com/ECHOESProj/eo-custom-scripts,,5 metres,,118,122,,,92,2010 to 2014,54,121,1,,
+144,d50a24bb-4f7d-40ca-a280-851a92d95b6b,215,en,dataset,1647947541,82,,1,82,Riparian Zones – Green Linear Elements,1647947541,1687434067,,,1,1,1,/dataset/riparian-zones-green-linear-elements,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>Green linear elements shows the locations of hedgerows and tree rows within a buffer zone of selected rivers.</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>Users can view a map with the locations of green linear elements, such as hedgerows and tree rows, where these exist within riparian zones.</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>SPOT 5 -&nbsp;<a href=""https://earth.esa.int/web/eoportal/satellite-missions/s/spot-5"">https://earth.esa.int/web/eoportal/satellite-missions/s/spot-5</a></p>
+
+<p>SPOT 6 -&nbsp; <a href=""https://earth.esa.int/web/eoportal/satellite-missions/s/spot-6-7"">https://earth.esa.int/web/eoportal/satellite-missions/s/spot-6-7</a></p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:&nbsp;</p>
+
+<p><a href=""https://land.copernicus.eu/local/riparian-zones/view"">https://land.copernicus.eu/local/riparian-zones/view</a>&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://land.copernicus.eu/local/riparian-zones/green-linear-elements-gle-image?tab=metadata"">https://land.copernicus.eu/local/riparian-zones/green-linear-elements-gle-image?tab=metadata</a>&nbsp;</p>
+
+<p>&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,111,,39,72,,"<p>See the ‘Lineage’ subheading at <a href=""https://land.copernicus.eu/local/riparian-zones/green-linear-elements-gle-image?tab=metadata"">https://land.copernicus.eu/local/riparian-zones/green-linear-elements-gle-image?tab=metadata</a></p>
+",,,,https://github.com/ECHOESProj/eo-custom-scripts,,10 metres,,118,122,,,92,2011 to 2013,54,,1,,
+145,00c0845b-8f7a-4b0a-8ff4-6f2323a56720,216,en,dataset,1647948104,82,,1,82,Coastal Zones 2012,1647948104,1687434067,,,1,1,1,/dataset/coastal-zones-2012,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The Coastal Zones 2012 layer provides a detailed Land Use / Land Cover (LU/LC) dataset for areas along the coastline of the EEA39 member states.&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>Users can view a map showing land use / land cover for a 10 km buffer inland from the coast for 2012, along with a corresponding 2018 layer.&nbsp;</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>SPOT 5 - <a href=""https://earth.esa.int/web/eoportal/satellite-missions/s/spot-5"">https://earth.esa.int/web/eoportal/satellite-missions/s/spot-5</a>&nbsp;</p>
+
+<p>SPOT 6 - <a href=""https://earth.esa.int/eogateway/missions/spot-6"">https://earth.esa.int/eogateway/missions/spot-6</a>&nbsp;</p>
+
+<p>Pléiades - <a href=""https://earth.esa.int/web/eoportal/satellite-missions/p/pleiades"">https://earth.esa.int/web/eoportal/satellite-missions/p/pleiades</a>&nbsp;</p>
+
+<p>See also ‘Lineage’ subheading at <a href=""https://land.copernicus.eu/local/coastal-zones/coastal-zones-2012?tab=metadata"">https://land.copernicus.eu/local/coastal-zones/coastal-zones-2012?tab=metadata</a>&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further metadata are accessible at <a href=""https://land.copernicus.eu/local/coastal-zones/coastal-zones-2012?tab=metadata"">https://land.copernicus.eu/local/coastal-zones/coastal-zones-2012?tab=metadata</a>&nbsp;</p>
+
+<p>More background and further links are available at <a href=""https://land.copernicus.eu/local/coastal-zones"">https://land.copernicus.eu/local/coastal-zones</a></p>
+
+<p>&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,112,,39,72,,"<p>See the ‘Lineage’ subheading at <a href=""https://land.copernicus.eu/local/coastal-zones/coastal-zones-2012?tab=metadata"">https://land.copernicus.eu/local/coastal-zones/coastal-zones-2012?tab=metadata</a>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+",,,,https://github.com/ECHOESProj/eo-custom-scripts,,5 metres,,118,122,,,92,2011 to 2014,54,,1,,
+146,4b715c6a-91ce-45d2-9213-1764c5d888b6,217,en,dataset,1647948319,82,,1,82,Coastal Zones 2018,1647948319,1687434067,,,1,1,1,/dataset/coastal-zones-2018,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The Coastal Zones 2018 layer provides a detailed Land Use / Land Cover (LU/LC) dataset for areas along the coastline of the EEA39 member states.&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>Users can view a map showing land use / land cover for a 10 km buffer inland from the coast for 2018, along with a corresponding 2012 layer.&nbsp;</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>SPOT 6/7 - <a href=""https://earth.esa.int/eogateway/missions/spot-6"">https://earth.esa.int/eogateway/missions/spot-6</a>&nbsp;</p>
+
+<p>Pléiades - <a href=""https://earth.esa.int/web/eoportal/satellite-missions/p/pleiades"">https://earth.esa.int/web/eoportal/satellite-missions/p/pleiades</a>&nbsp;</p>
+
+<p lang=""EN-US"">TripleSat <a href=""https://directory.eoportal.org/web/eoportal/satellite-missions/d/dmc-3"">https://directory.eoportal.org/web/eoportal/satellite-missions/d/dmc-3</a>&nbsp;</p>
+
+<p lang=""EN-US"">PlanetScope - <a href=""https://earth.esa.int/eogateway/missions/planetscope"">https://earth.esa.int/eogateway/missions/planetscope</a>&nbsp;</p>
+
+<p lang=""EN-US"">Deimos - <a href=""https://earth.esa.int/web/eoportal/satellite-missions/d/deimos-2"">https://earth.esa.int/web/eoportal/satellite-missions/d/deimos-2</a>&nbsp;</p>
+
+<p lang=""EN-US"">Kompsat 3/3A - <a href=""https://earth.esa.int/web/eoportal/satellite-missions/k/kompsat-3"">https://earth.esa.int/web/eoportal/satellite-missions/k/kompsat-3</a>&nbsp;</p>
+
+<p>See also ‘Lineage’ subheading at <a href=""https://land.copernicus.eu/local/coastal-zones/coastal-zones-2018?tab=metadata"">https://land.copernicus.eu/local/coastal-zones/coastal-zones-2018?tab=metadata</a>&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further metadata are accessible at <a href=""https://land.copernicus.eu/local/coastal-zones/coastal-zones-2018?tab=metadata"">https://land.copernicus.eu/local/coastal-zones/coastal-zones-2018?tab=metadata</a>&nbsp;</p>
+
+<p>More background and further links are available at <a href=""https://land.copernicus.eu/local/coastal-zones"">https://land.copernicus.eu/local/coastal-zones</a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+",,1,2,,117,,115,,,21,86,,,,113,,39,72,,"<p>See the ‘Lineage’ subheading at <a href=""https://land.copernicus.eu/local/coastal-zones/coastal-zones-2018?tab=metadata"">https://land.copernicus.eu/local/coastal-zones/coastal-zones-2018?tab=metadata</a></p>
+",,,,https://github.com/ECHOESProj/eo-custom-scripts,,5 metres,,118,122,,,92,2017 to 2019,54,,1,,
+147,c159d160-cd2b-4117-8abe-2ffcf93e4fc2,218,en,dataset,1648224128,82,,1,82,Barren Soil,1648224128,1687434067,,,1,1,1,/dataset/barren-soil,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The barren soil script&nbsp;shows all vegetation in green and barren ground in red colours. Water appears black. It also incidentally highlights certain buildings, making bare ground areas difficult to separate from dwellings.</p>
+
+<h2 lang=""EN-US"">User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can use this information to figure out the status of the crops (growing, not yet growing), detect recent deforestation or monitor droughts. It can also be used to detect landslides or determine the extent of erosion in non-vegetated areas.</p>
+
+<h2>Satellite</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a>&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p lang=""EN-US"">Further information at:</p>
+
+<p lang=""EN-US""><span><span><span><a href=""https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/barren_soil/"">https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/barren_soil/</a></span></span></span></p>
+
+<p lang=""EN-US"">&nbsp;</p>
+",,1,2,,117,,97,,,21,86,,,,114,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,,,117,,,,92,,54,,1,,
+148,d9c124a5-8bc7-4c83-aeb0-56678e351b37,219,en,dataset,1648225022,82,,1,82,Water Bodies Occurrence,1648225022,1687434067,,,1,1,1,/dataset/water-bodies-occurrence,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>Water bodies layer, showing water occurrence from low occurrence to permanent occurrence.&nbsp;&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows occurrence of water in water bodies from low occurrence to permanent occurrence.</p>
+
+<h2>Satellite</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a></p>
+
+<h2>Detailed Description</h2>
+
+<p>More information about the data can be obtained from the links at:</p>
+
+<p><a href=""https://land.copernicus.eu/global/products/wb"">https://land.copernicus.eu/global/products/wb</a>&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://collections.sentinel-hub.com/water-bodies/"">https://collections.sentinel-hub.com/water-bodies/</a>&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://github.com/sentinel-hub/public-collections/tree/main/collections/water-bodies"">https://github.com/sentinel-hub/public-collections/tree/main/collections/water-bodies</a>&nbsp;&nbsp;</p>
+
+<p lang=""EN-US"">Product User Manual is at:</p>
+
+<p lang=""EN-US""><span><span><span><a href=""https://land.copernicus.eu/global/sites/cgls.vito.be/files/products/CGLOPS2_PUM_WB100m_V1_I1.10.pdf"">https://land.copernicus.eu/global/sites/cgls.vito.be/files/products/CGLOPS2_PUM_WB100m_V1_I1.10.pdf</a></span></span></span></p>
+",,1,2,,117,,115,,,21,86,,,,115,,39,71,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,100 metres,,116,42,,,92,2018 to present,54,24,1,,
+149,6df52aac-92e8-4d95-bb6c-633dd9f1097d,220,en,dataset,1648225850,82,,1,82,Water In Wetlands Index (WIW),1648225850,1687434067,,,1,1,1,/dataset/water-wetlands-index-wiw,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The script is able to detect water under vegetation cover, and it generates a map featuring water in blue and other landscape features in natural colours.</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows open-water areas and areas with water under vegetation cover.</p>
+
+<h2>Satellite</h2>
+
+<p>Sentinel 2 - <a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2</a></p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:</p>
+
+<p><span><span><span><a href=""https://custom-scripts.sentinel-hub.com/sentinel-2/wiw_s2_script/"">https://custom-scripts.sentinel-hub.com/sentinel-2/wiw_s2_script/</a></span></span></span></p>
+",,1,2,,117,,97,,,21,86,,,,116,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,20 metres,,117,42,,,92,2018 to present,54,120,1,,
+150,53c2850f-5816-434a-b895-6b9da88bbd12,221,en,dataset,1648226315,82,,1,82,Global Surface Water Occurrence Change Intensity,1648226315,1687434067,,,1,1,1,/dataset/global-surface-water-occurrence-change-intensity,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>Changes in water occurrence between two epochs: 1) 1984 to 1999, and 2) 2000 to 2020.&nbsp;The increase of water occurrence is visualised in shades of green, no change is shown in black, and decrease is shown in shades of red.</p>
+
+<p>Source: EC JRC/Google&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows where water occurrence in water bodies has increased or decreased between two epochs.&nbsp;</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Landsat 5 - <a href=""https://www.usgs.gov/landsat-missions/landsat-5"">https://www.usgs.gov/landsat-missions/landsat-5</a>&nbsp;&nbsp;</p>
+
+<p>Landsat 7 - <a href=""https://www.usgs.gov/landsat-missions/landsat-7"">https://www.usgs.gov/landsat-missions/landsat-7</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Landsat 8 - <a href=""https://www.usgs.gov/landsat-missions/landsat-8"">https://www.usgs.gov/landsat-missions/landsat-8</a>&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:&nbsp;</p>
+
+<p lang=""EN-US""><a href=""https://global-surface-water.appspot.com/"">https://global-surface-water.appspot.com/</a>&nbsp;</p>
+
+<p>This is one of the data bands in the Global Surface Water collection:&nbsp;<br />
+<a href=""https://collections.sentinel-hub.com/global-surface-water/"">https://collections.sentinel-hub.com/global-surface-water/</a>&nbsp;&nbsp;</p>
+
+<p>FAQs are at <a href=""https://global-surface-water.appspot.com/faq"">https://global-surface-water.appspot.com/faq</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>The original Global Surface Water map is viewable at:&nbsp;<br />
+<a href=""https://global-surface-water.appspot.com/map"">https://global-surface-water.appspot.com/map</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>Technical details can be found in the Data User’s Guide:&nbsp;<br />
+<a href=""https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf"">https://storage.cloud.google.com/global-surface-water/downloads_ancillary/DataUsersGuidev2020.pdf</a>&nbsp;&nbsp;&nbsp;</p>
+
+<p>A full account of the Global Surface Water project is given in: &nbsp;<br />
+Jean-Francois Pekel, Andrew Cottam, Noel Gorelick, Alan S. Belward, High-resolution mapping of global surface water and its long-term changes. Nature 540, 418-422 (2016). <a href=""https://www.nature.com/articles/nature20584.epdf?author_access_token=C5JSvooRop4jWxyp_qRPLNRgN0jAjWel9jnR3ZoTv0MqBuzCNsmw_DFxRd7sX93nfPzcbm_xTiPLlZMl7XrUhadm6EiT9cGdDNgn1s6EWrPWH3IeadLUjApplBoaS6xH"">(doi:10.1038/nature20584)</a></p>
+",,1,2,,117,,115,,,21,86,,,,117,,39,71,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,30 metres,,116,42,,,92,1984 to 2020,54,94,1,,
+151,3a04675c-7239-47da-8fee-4feee5068605,222,en,dataset,1648227894,82,,1,82,Soil Moisture Estimation,1648227894,1687434067,,,1,1,1,/dataset/soil-moisture-estimation,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>This script produces soil moisture ranges from 0 to 60% with colour representation of red being 0 and blue as 60%.</p>
+
+<h2 lang=""EN-US"">User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>The user can view a map that shows soil moisture levels during specified time periods.</p>
+
+<h2>Satellite</h2>
+
+<p>Sentinel 1 - <span><span><span><a href=""https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1"">https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1</a></span></span></span>&nbsp;&nbsp;&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p lang=""EN-US"">Further information at:</p>
+
+<p lang=""EN-US""><span><span><span><a href=""https://custom-scripts.sentinel-hub.com/sentinel-1/soil_moisture_estimation/"">https://custom-scripts.sentinel-hub.com/sentinel-1/soil_moisture_estimation/</a></span></span></span></p>
+
+<p lang=""EN-US"">&nbsp;</p>
+",,1,2,,117,,97,,,21,86,,,,118,,39,72,,,,,,https://github.com/ECHOESProj/eo-custom-scripts,,20 metres,,117,,,,92,2015 to 2021,54,126,1,,
+152,8753c246-20b4-4b2a-ab2a-4f862c8317e5,223,en,dataset,1648632785,82,,1,82,Riparian Zones – Land Cover / Land Use 2018,1648632785,1687434067,,,1,1,1,/dataset/riparian-zones-land-cover-land-use-2018,,"<h2>Basic Description&nbsp;&nbsp;</h2>
+
+<p>The Land Cover / Land Use 2018 product covers a variable buffer zone of selected rivers.&nbsp;</p>
+
+<p lang=""EN-US"">© European Union, Copernicus Land Monitoring Service 2022, European Environment Agency (EEA)&nbsp;</p>
+
+<h2>User Requirement&nbsp;&nbsp;&nbsp;</h2>
+
+<p>Users can view a map that shows land cover / land use classifications in riparian zones for the period around 2018.</p>
+
+<h2>Satellite(s) &nbsp;&nbsp;</h2>
+
+<p>Pleiades -&nbsp; <a href=""https://earth.esa.int/eogateway/missions/pleiades"">https://earth.esa.int/eogateway/missions/pleiades</a> &nbsp;</p>
+
+<p lang=""EN-US"">Kompsat 3/3A -&nbsp; <a href=""https://earth.esa.int/web/eoportal/satellite-missions/k/kompsat-3"">https://earth.esa.int/web/eoportal/satellite-missions/k/kompsat-3</a> &nbsp;</p>
+
+<p lang=""EN-US"">SuperView-1&nbsp;-&nbsp; <a href=""https://eos.com/find-satellite/superview-1/"">https://eos.com/find-satellite/superview-1/</a> &nbsp;</p>
+
+<p>SPOT 6 -&nbsp; <a href=""https://earth.esa.int/web/eoportal/satellite-missions/s/spot-6-7"">https://earth.esa.int/web/eoportal/satellite-missions/s/spot-6-7</a>&nbsp;&nbsp;</p>
+
+<p lang=""EN-US"">TripleSat -&nbsp; <a href=""https://directory.eoportal.org/web/eoportal/satellite-missions/d/dmc-3"">https://directory.eoportal.org/web/eoportal/satellite-missions/d/dmc-3</a> &nbsp;</p>
+
+<p lang=""EN-US"">PlanetScope -&nbsp; <a href=""https://earth.esa.int/eogateway/missions/planetscope"">https://earth.esa.int/eogateway/missions/planetscope</a> &nbsp;</p>
+
+<p lang=""EN-US"">Deimos -&nbsp; <a href=""https://directory.eoportal.org/web/eoportal/satellite-missions/d/deimos-2"">https://directory.eoportal.org/web/eoportal/satellite-missions/d/deimos-2</a></p>
+
+<p>&nbsp;</p>
+
+<h2>Detailed Description</h2>
+
+<p>Further information:&nbsp;</p>
+
+<p><a href=""https://land.copernicus.eu/local/"">https://land.copernicus.eu/local</a>&nbsp;</p>
+
+<p><a href=""https://land.copernicus.eu/user-corner/technical-library/riparian_zones_nomenclature_guide"">https://land.copernicus.eu/user-corner/technical-library/riparian_zones_nomenclature_guide</a>&nbsp;&nbsp;</p>
+
+<p><a href=""https://land.copernicus.eu/local/riparian-zones/view"">https://land.copernicus.eu/local/riparian-zones/view</a>&nbsp;</p>
+
+<p><a href=""https://land.copernicus.eu/local/riparian-zones/riparian-zones-2018?tab=metadata"">https://land.copernicus.eu/local/riparian-zones/riparian-zones-2018?tab=metadata</a>&nbsp;</p>
+
+<p>&nbsp;</p>
+",,1,2,,118,,115,,,21,86,,,,119,,39,72,,"<p>See ‘Lineage’ subheading at <a href=""https://land.copernicus.eu/local/riparian-zones/riparian-zones-2018?tab=metadata"">https://land.copernicus.eu/local/riparian-zones/riparian-zones-2018?tab=metadata</a></p>
+",,,,https://github.com/ECHOESProj/eo-custom-scripts,,5 metres,,118,122,,,92,2017 to 2018,54,121,1,,
+153,9b515fbf-0375-458a-83f2-7a40498e0376,224,en,dataset,1687769824,69,,,69,Cefni Random Forest Wales Classification Map 2022,1687769824,1687769824,,,1,1,1,/dataset/cefni-random-forest-wales-classification-map-2022,,"<p>Random Forest Classification Map 2022. Methodology applied: Random Forest algorithm</p>
+",,1,2,62,,,,,,21,11,,,,120,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+154,f92491b2-ca41-42da-97ad-afa44935ca75,225,en,dataset,1687769978,69,,,69,Dyfi Estuary Random Forest Classification Map 2020,1687769978,1687769978,,,1,1,1,/dataset/dyfi-estuary-random-forest-classification-map-2020,,"<p>Random Forest Classification Map 2020. Based on Sentinel-2 L2A products. Over four dates:(19/11/2019, 14/04/2020, 01/06/2020, 21/09/2020) Methodology applied: Random Forest algorithm</p>
+",,1,2,,,,,,,21,11,,,,121,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+155,7d63a577-b444-451b-b0b9-ddc6447a1846,226,en,dataset,1687770061,69,,,69,Dyfi Estuary Random Forest Classification Map 2021,1687770061,1687770061,,,1,1,1,/dataset/dyfi-estuary-random-forest-classification-map-2021,,"<p>Random Forest Classification Map 2021. Based on Sentinel-2 L2A products. Over four dates:(18/12/2021,23/03/2022,19/05/2022, 12/08/2022) Methodology applied: Random Forest algorithm</p>
+",,1,2,,,,,,,21,11,,,,122,,,,,,,,,,,,,,,,,91|90,,53,,,,
+156,c38dffab-6c53-4499-9b48-ed6b24c718fc,227,en,dataset,1687770129,69,,,69,Random Forest Ballyteige Classification Map 2022,1687770129,1687770129,,,1,1,1,/dataset/random-forest-ballyteige-classification-map-2022,,"<p>Random Forest Classification Map 2022. Methodology applied: Random Forest algorithm</p>
+",,1,2,,,,,,,21,11,,,,123,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+157,33daa08b-f28d-4c3e-900a-f269eb792970,228,en,dataset,1687770192,69,,,69,Random Forest Wexford Classification Map 2022,1687770192,1687770192,,,1,1,1,/dataset/random-forest-wexford-classification-map-2022,,"<p>Random Forest Classification Map 2022. Methodology applied: Random Forest algorithm</p>
+",,1,2,,,,,,,21,11,,,,124,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+158,278d1153-e4a8-4121-849c-488d54bb0abd,229,en,dataset,1687770520,69,,,69,Days Sub 5 Degrees C,1687770520,1687770520,,,1,1,1,/dataset/days-sub-5-degrees-c,,,,1,2,,,,,,,21,11,,,,125,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+159,58f6478b-37a4-41da-9edd-8ba0491addb9,230,en,dataset,1687771794,69,,,69,Dry Days Sub 0.05mm,1687771794,1687771794,,,1,1,1,/dataset/dry-days-sub-005mm,,"<p>Environmental Variables for January 2003 through to August 2019 (200 months)</p>
+",,1,2,,,,,,,21,11,,,,126,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+160,838ba1f6-8c6d-4b1f-bb5a-e657d974e4d1,231,en,dataset,1687771825,69,,,69,Dry Days Sub 0.5mm,1687771825,1687771825,,,1,1,1,/dataset/dry-days-sub-05mm,,"<p>Environmental Variables for January 2003 through to August 2019 (200 months)</p>
+",,1,2,,,,,,,21,11,,,,127,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+161,82a21a6c-9daf-4bac-8d9c-0000aa8c95ee,232,en,dataset,1687772096,69,,,69,Frost days (days where min temp < 0 degrees C),1687772096,1687772096,,,1,1,1,/dataset/frost-days-days-where-min-temp-0-degrees-c,,"<p>Environmental Variables for January 2003 through to August 2019 (200 months)</p>
+",,1,2,,,,,,,21,11,,,,128,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+162,bb378035-3415-4365-9ad6-1ccac4953938,233,en,dataset,1687772207,69,,,69,Total Precipitation,1687772207,1687772207,,,1,1,1,/dataset/total-precipitation,,"<p>Environmental Variables for January 2003 through to August 2019 (200 months)</p>
+",,1,2,,,,,,,21,11,,,,129,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+163,39968754-e73c-4142-ba5b-96d486214624,234,en,dataset,1687776232,69,,,69,Cefni - Field Survey Data,1687776232,1687776232,,,1,1,1,/dataset/cefni-field-survey-data,,"<p>Field Survey Data from the Cefni area.</p>
+",,1,2,,,,,,,96,10,,,,130,,,,,,,,,,,,,,,,,90,,53,,,,
+164,ac4acc87-00ee-41f7-be5a-44fe1e4b2fbf,235,en,dataset,1687776287,69,,,69,Malltreath - Field Survey Data,1687776287,1687776287,,,1,1,1,/dataset/malltreath-field-survey-data,,"<p>Field Survey Data from the Malltreath area.</p>
+",,1,2,,,,,,,96,10,,,,131,,,,,,,,,,,,,,,,,90,,53,,1,,
+165,fa8fa3e5-aa2a-4a24-814e-111e6ec9f573,236,en,dataset,1687787378,69,,,69,Species - Atlas Observations - GB,1687787378,1687787378,,,1,1,1,/dataset/species-atlas-observations-gb,,"<p>Atlas Observations for Great Britain</p>
+",,1,2,,,,,,,21,9,,,,132,,,,,,,,,,,,,,,,,91|90,,53,,,,
+166,b0405c72-c6c9-488f-b4b0-6afa59b06c90,237,en,dataset,1687787547,69,,,69,Species - Atlas Observations - IRE,1687787547,1687787547,,,1,1,1,/dataset/species-atlas-observations-ire,,"<p>Atlas Observations - Ireland</p>
+",,1,2,,,,,,,21,9,,,,133,,,,,,,,,,,,,,,,,91,,53,,1,,
+167,ac25b74f-f7fa-43e9-a0ea-7fcc03b765ac,238,en,dataset,1687787659,69,,,69,Atlas Presence/Absence - GB,1687787659,1687787659,,,1,1,1,/dataset/atlas-presenceabsence-gb,,"<p>Atlas Presence/Absence - Great Britain</p>
+",,1,2,,,,,,,21,9,,,,134,,,,,,,,,,,,,,,,,90,,53,,1,,
+168,3853c0f0-472a-4833-9794-1716663a55a9,239,en,dataset,1687787696,69,,,69,Atlas Presence/Absence - IRE,1687787696,1687787696,,,1,1,1,/dataset/atlas-presenceabsence-ire,,"<p>Atlas Presence/Absence - Ireland</p>
+",,1,2,,,,,,,21,9,,,,135,,,,,,,,,,,,,,,,,91,,53,,1,,
+169,4ff4bcd6-101d-4782-af8d-6e280713509a,240,en,dataset,1687787922,69,,,69,Curlew distribution 1995 - 2015,1687787922,1687787922,,,1,1,1,/dataset/curlew-distribution-1995-2015,,"<p>Curlew distribution 1995 - 2015</p>
+",,1,2,,,,,,,21,9,,,,136,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+170,fe57e91a-d85a-4686-9833-8f62767e32f7,241,en,dataset,1687787996,69,,,69,Curlew Probability Maps,1687787996,1687787996,,,1,1,1,/dataset/curlew-probability-maps,,"<p>A probability prediction maps based on generalized linear models for the CORINE land cover classes and the curlew observation data. For each of the three CORINE data sets 2006, 2012 and 2018, a GeoTIFF is prepared based on sets of particular months. The output is probability of a curlew sighting from very low, low, medium and high.<br />
+<br />
+<strong>Note</strong><br />
+The output is of a rough - and - ready model. Future improvements consist refinement of model and the inclusion of climate information - the models are based purely on land cover classes.</p>
+",,1,2,,,,,,,21,9,,,,137,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+171,82e64ca9-49e2-41d7-9942-96b6ee97c985,242,en,dataset,1687788057,69,,,69,Curlew Probability Maps Final,1687788057,1687788057,,,1,1,1,/dataset/curlew-probability-maps-final,,"<p>A probability prediction maps based on generalized linear models for the CORINE land cover classes and the curlew observation data. For each of the three CORINE data sets 2006, 2012 and 2018, a GeoTIFF is prepared based on sets of particular months. The output is probability of a curlew sighting from very low, low, medium and high.<br />
+<br />
+<strong>Note</strong><br />
+The output is of a rough - and - ready model. Future improvements consist refinement of model and the inclusion of climate information - the models are based purely on land cover classes.</p>
+",,1,2,,,,,,,21,9,,,,138,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+172,4e5034b7-f120-4f08-8f0c-deda9979fdaf,243,en,dataset,1687788096,69,,,69,Curlew vs CORINE 2006 - Monthly fits,1687788096,1687788096,,,1,1,1,/dataset/curlew-vs-corine-2006-monthly-fits,,"<p>Curlew sightings vs CORINE 2006 fitted monthly</p>
+",,1,2,,,,,,,21,9,,,,139,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+173,8f9e2d48-fed3-4d45-9969-54849e74b766,244,en,dataset,1687788736,69,,,69,Curlew Survey Data -Ballyteige - YrAEP,1687788736,1687788736,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yraep,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,140,,,,,,,,,,,,,,,,,91,,53,,1,,
+174,1819d408-40c3-4aaf-8f3c-d0790fa85575,245,en,dataset,1687789118,69,,,69,Curlew Survey Data -Ballyteige - YrAET,1687789118,1687789118,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yraet,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,141,,,,,,,,,,,,,,,,,91,,53,,1,,
+175,0c38ccc5-10f1-478d-bc4a-daff600e6ba7,246,en,dataset,1687789194,69,,,69,Curlew Survey Data -Ballyteige - YrAEU,1687789194,1687789194,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yraeu,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,142,,,,,,,,,,,,,,,,,91,,53,,1,,
+176,e2a41539-b4ed-426d-8ccb-6ab6a1de79a5,247,en,dataset,1687789991,69,,,69,Curlew Survey Data -Ballyteige - YrAEV,1687789991,1687790007,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yraev,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,143,,,,,,,,,,,,,,,,,91,,53,,1,,
+177,ff06cef5-70e0-4293-93d1-c6718ebdbad1,248,en,dataset,1687790031,69,,,69,Curlew Survey Data -Ballyteige - YrAEX,1687790031,1687790031,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yraex,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,144,,,,,,,,,,,,,,,,,91,,53,,1,,
+178,55fd0799-1ad5-45b3-9d05-ccd33de598b1,249,en,dataset,1687790056,69,,,69, Curlew Survey Data -Ballyteige - YrAEA,1687790056,1687790055,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yraea,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,145,,,,,,,,,,,,,,,,,91,,53,,1,,
+179,0679e29c-2d13-4437-9b2e-2859bc3e6434,250,en,dataset,1687790095,69,,,69,Curlew Survey Data -Ballyteige - YrAEC,1687790095,1687790166,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yraec,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,146,,,,,,,,,,,,,,,,,91,,53,,1,,
+180,090e91ce-00da-4bb4-94ae-bdd30c13529c,251,en,dataset,1687790137,69,,,69,Curlew Survey Data -Ballyteige - YrAHA,1687790137,1687790176,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yraha,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,147,,,,,,,,,,,,,,,,,91,,53,,1,,
+181,09140baf-be95-4b00-8054-8750c5b6ac27,252,en,dataset,1687790280,69,,,69,Curlew Survey Data -Ballyteige - YrAHE,1687790280,1687790280,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yrahe,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,148,,,,,,,,,,,,,,,,,91,,53,,1,,
+182,d0a18be1-d08f-4cd8-aa12-3565f7aa63aa,253,en,dataset,1687790311,69,,,69,Curlew Survey Data -Ballyteige - YrAHH,1687790311,1687790311,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yrahh,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,149,,,,,,,,,,,,,,,,,91,,53,,1,,
+183,deee05ce-46af-4003-9beb-b371833d6647,254,en,dataset,1687790341,69,,,69,Curlew Survey Data -Ballyteige - YrAHN,1687790341,1687790341,,,1,1,1,/dataset/curlew-survey-data-ballyteige-yrahn,,"<p>Curlew tracking data - Ballyteige</p>
+",,1,2,,,,,,,96,10,,,,150,,,,,,,,,,,,,,,,,91,,53,,1,,
+184,5fa4b427-721c-475d-a80f-f8a737e727da,255,en,dataset,1687790530,69,,,69,Curlew vs CORINE 2006 - Residuals - January,1687790530,1687790530,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-january,,"<p>Curlew vs CORINE 2006 - monthly residuals - January</p>
+",,1,2,,,,,,,21,9,,,,151,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+185,635f9421-cf57-49e3-90b6-8b6237f0d855,256,en,dataset,1687790563,69,,,69,Curlew vs CORINE 2006 - Residuals - February,1687790563,1687790573,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-february,,"<p>Curlew vs CORINE 2006 - monthly residuals - February</p>
+",,1,2,,,,,,,21,9,,,,152,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+186,d0a6e0ae-cded-46fd-9658-f0932f55bd5a,257,en,dataset,1687790593,69,,,69,Curlew vs CORINE 2006 - Residuals - March,1687790593,1687790593,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-march,,"<p>Curlew vs CORINE 2006 - monthly residuals - March</p>
+",,1,2,,,,,,,21,9,,,,153,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+187,c85f8059-0fc6-4d4e-8b13-e740072facc8,258,en,dataset,1687790614,69,,,69,Curlew vs CORINE 2006 - Residuals - April,1687790614,1687790613,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-april,,"<p>Curlew vs CORINE 2006 - monthly residuals - April</p>
+",,1,2,,,,,,,21,9,,,,154,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+188,de0f767a-046c-4b87-93af-0c736365506f,259,en,dataset,1687790640,69,,,69,Curlew vs CORINE 2006 - Residuals - May,1687790640,1687790640,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-may,,"<p>Curlew vs CORINE 2006 - monthly residuals - May</p>
+",,1,2,,,,,,,21,9,,,,155,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+189,618c3317-e517-4fd2-9e60-079a7fab58ad,260,en,dataset,1687790660,69,,,69,Curlew vs CORINE 2006 - Residuals - June,1687790660,1687790660,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-june,,"<p>Curlew vs CORINE 2006 - monthly residuals - June</p>
+",,1,2,,,,,,,21,9,,,,156,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+190,1fbfffda-4679-4b38-8a94-4fcb00f3f18d,261,en,dataset,1687790673,69,,,69,Curlew vs CORINE 2006 - Residuals - July,1687790673,1687790682,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-july,,"<p>Curlew vs CORINE 2006 - monthly residuals - July</p>
+",,1,2,,,,,,,21,9,,,,157,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+191,74a87e21-d58d-4a13-9ed2-9804a099f53d,262,en,dataset,1687790703,69,,,69,Curlew vs CORINE 2006 - Residuals - August,1687790703,1687790703,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-august,,"<p>Curlew vs CORINE 2006 - monthly residuals - August</p>
+",,1,2,,,,,,,21,9,,,,158,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+192,595905f4-e305-4878-99c3-4d05521eacf2,263,en,dataset,1687790721,69,,,69,Curlew vs CORINE 2006 - Residuals - September,1687790721,1687790730,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-september,,"<p>Curlew vs CORINE 2006 - monthly residuals - September</p>
+",,1,2,,,,,,,21,9,,,,159,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+193,4093ec7b-8d0f-49ef-bdae-c175494a93af,264,en,dataset,1687790755,69,,,69,Curlew vs CORINE 2006 - Residuals - October,1687790755,1687790755,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-october,,"<p>Curlew vs CORINE 2006 - monthly residuals - October</p>
+",,1,2,,,,,,,21,9,,,,160,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+194,bcd021aa-1c7f-459e-9c47-cb0e48580e48,265,en,dataset,1687790777,69,,,69,Curlew vs CORINE 2006 - Residuals - November,1687790777,1687790777,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-november,,"<p>Curlew vs CORINE 2006 - monthly residuals - November</p>
+",,1,2,,,,,,,21,9,,,,161,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+195,06792ecb-8b34-407e-a85f-5c47fc1e9294,266,en,dataset,1687790795,69,,,69,Curlew vs CORINE 2006 - Residuals - December,1687790795,1687790795,,,1,1,1,/dataset/curlew-vs-corine-2006-residuals-december,,"<p>Curlew vs CORINE 2006 - monthly residuals - December</p>
+",,1,2,,,,,,,21,9,,,,162,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+196,c4dfe6dd-cfca-4f5e-b7f2-8980a1407031,267,en,dataset,1687790880,69,,,69,Goose Data - Daily - day and night,1687790880,1687790880,,,1,1,1,/dataset/goose-data-daily-day-and-night,,"<p>As part of the ECHOES project, PathTrack GPS tags were deployed on non-breeding Greenland White-fronted Geese that were caught and tagged under appropriate licences (BTO and NPWS). The location points from the GPS tags were summarised to 1km grid squares. The relative importance (within the scope of the GPS tag deployments) for each 1km grid square has been summarised per day/night (the change from day to night was defined by ‘civil twilight’).</p>
+
+<p>GPS deployments and data analysis has been led by the British Trust for Ornithology.</p>
+",,1,2,,,,,,,96,10,,,,163,,,,,,,,,,,,,,,,,90,,53,,1,,
+197,60d54605-d232-42ea-87f9-5047c5e5d743,268,en,dataset,1687790914,69,,,69,Goose Data - Day - Summary,1687790914,1687790914,,,1,1,1,/dataset/goose-data-day-summary,,"<p>As part of the ECHOES project, PathTrack GPS tags were deployed on non-breeding Greenland White-fronted Geese that were caught and tagged under appropriate licences (BTO and NPWS). The location points from the GPS tags were summarised to 1km grid squares. The relative importance (within the scope of the GPS tag deployments) for each 1km grid square has been summarised per day/night (the change from day to night was defined by ‘civil twilight’).</p>
+
+<p>GPS deployments and data analysis has been led by the British Trust for Ornithology.</p>
+",,1,2,,,,,,,96,10,,,,164,,,,,,,,,,,,,,,,,90,,53,,1,,
+198,b410cda6-f6f2-41b1-ac73-16886e4bb084,269,en,dataset,1687790926,69,,,69,Goose Data - Night - Summary,1687790926,1687790968,,,1,1,1,/dataset/goose-data-night-summary,,"<p>As part of the ECHOES project, PathTrack GPS tags were deployed on non-breeding Greenland White-fronted Geese that were caught and tagged under appropriate licences (BTO and NPWS). The location points from the GPS tags were summarised to 1km grid squares. The relative importance (within the scope of the GPS tag deployments) for each 1km grid square has been summarised per day/night (the change from day to night was defined by ‘civil twilight’).</p>
+
+<p>GPS deployments and data analysis has been led by the British Trust for Ornithology.</p>
+",,1,2,,,,,,,96,10,,,,165,,,,,,,,,,,,,,,,,90,,53,,1,,
+199,3a7d1040-9fda-4c77-ba11-b7f58c9c1a0e,270,en,dataset,1687791034,69,,,69,Mean air temperature - (RCP4.5),1687791034,1687791034,,,1,1,1,/dataset/mean-air-temperature-rcp45,,"<p>Daily average air temperature valid for a grid cell at the height of 2m above the surface, averaged over the year. The temperature statistics are calculated, either for the season winter and summer or for the whole year, based on a bias-adjusted EURO-CORDEX dataset. The statistics are averaged for 30 years as a smoothed average from 1971 to 2100. This results in a timeseries covering the period from 1986 to 2085. Finally, the timeseries are averaged for the model ensemble and the standard deviation to this ensemble mean is provided.</p>
+",,1,2,,,,,,,21,86,,,,166,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+200,de973b4a-a92d-43da-9b33-f093550606ce,271,en,dataset,1687791128,69,,,69,Mean air temperature - (RCP8.5),1687791128,1687791128,,,1,1,1,/dataset/mean-air-temperature-rcp85,,"<p>Daily average air temperature valid for a grid cell at the height of 2m above the surface, averaged over the year. The temperature statistics are calculated, either for the season winter and summer or for the whole year, based on a bias-adjusted EURO-CORDEX dataset. The statistics are averaged for 30 years as a smoothed average from 1971 to 2100. This results in a timeseries covering the period from 1986 to 2085. Finally, the timeseries are averaged for the model ensemble and the standard deviation to this ensemble mean is provided.</p>
+",,1,2,,,,,,,21,86,,,,167,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+201,5b17c0a1-3b1d-42f3-8193-b30989a32f27,272,en,dataset,1687791305,69,,,69,Dry days - annual sum (RCP4.5),1687791305,1687791305,,,1,1,1,/dataset/dry-days-annual-sum-rcp45,,"<p>Dry days variable from the CMIP5 climate projections. The variable shows the number of days within a year where total daily precipitation does not exceed 2 mm.</p>
+",,1,2,,,,,,,21,86,,,,168,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+202,e2194e91-879e-470c-af10-7b33eb028ba2,273,en,dataset,1687791321,69,,,69,Dry days - annual sum (RCP8.5),1687791321,1687791320,,,1,1,1,/dataset/dry-days-annual-sum-rcp85,,"<p>Dry days variable from the CMIP5 climate projections. The variable shows the number of days within a year where total daily precipitation does not exceed 2 mm.</p>
+",,1,2,,,,,,,21,86,,,,169,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+203,fe74d425-eee1-4045-80e6-e413a6c71358,274,en,dataset,1687791949,69,,,69,Volumetric soil water (RCP4.5),1687791949,1687791949,,,1,1,1,/dataset/volumetric-soil-water-rcp45,,"<p>Volumetric soil water layer 1 annual mean variable from the CMIP5 climate projections. The variable shows the volume of water in soil layer 1 (0-7cm, the surface is at 0 cm) averaged over the year. The ECMWF Integrated Forecasting System model has a four-layer representation of soil; Layer 1: 0-7 cm; Layer 2: 7-28 cm; Layer 3: 28-100 cm; Layer 4: 100-289 cm. The volumetric soil water is associated with the soil texture (or classification), soil depth, and the underlying groundwater level.</p>
+",,1,2,,,,,,,21,86,,,,170,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+204,459c7965-6096-403b-b674-5a8b62d30f4d,275,en,dataset,1687791965,69,,,69,Volumetric soil water (RCP8.5),1687791965,1687791965,,,1,1,1,/dataset/volumetric-soil-water-rcp85,,"<p>Volumetric soil water layer 1 annual mean variable from the CMIP5 climate projections. The variable shows the volume of water in soil layer 1 (0-7cm, the surface is at 0 cm) averaged over the year. The ECMWF Integrated Forecasting System model has a four-layer representation of soil; Layer 1: 0-7 cm; Layer 2: 7-28 cm; Layer 3: 28-100 cm; Layer 4: 100-289 cm. The volumetric soil water is associated with the soil texture (or classification), soil depth, and the underlying groundwater level.</p>
+",,1,2,,,,,,,21,86,,,,171,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+205,76b1ef2d-1ed6-482c-93ff-98ae3d01e489,276,en,dataset,1687792125,69,,,69,Mean air temperature - CEDA,1687792125,1687792125,,,1,1,1,/dataset/mean-air-temperature-ceda,,"<p>Mean air temperature from the UK Climate Projection 2018 (UKCP18) project.</p>
+",,1,2,,,,,,,21,86,,,,172,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+206,ec5aee31-bf69-419d-8a78-71b72157047f,277,en,dataset,1687792157,69,,,69,Wind speed at 10m - CEDA,1687792157,1687792157,,,1,1,1,/dataset/wind-speed-10m-ceda,,"<p>Wind speed at 10m&nbsp;from the UK Climate Projection 2018 (UKCP18) project.</p>
+",,1,2,,,,,,,21,86,,,,173,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+207,90560d6c-3db4-438d-a446-f14eb2b5b147,278,en,dataset,1687792177,69,,,69,Precipitation Rate - CEDA,1687792177,1687792176,,,1,1,1,/dataset/precipitation-rate-ceda,,"<p>Precipitation Rate&nbsp;from the UK Climate Projection 2018 (UKCP18) project.</p>
+",,1,2,,,,,,,21,86,,,,174,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+208,f7754264-1195-4013-895f-e4b31d35c4fa,279,en,dataset,1687792200,69,,,69,Surface Snow Amount - CEDA,1687792200,1687792200,,,1,1,1,/dataset/surface-snow-amount-ceda,,"<p>Surface Snow Amount&nbsp;from the UK Climate Projection 2018 (UKCP18) project.</p>
+",,1,2,,,,,,,21,86,,,,175,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+209,c712e3e7-4a59-4a14-9aa7-97038a619e72,280,en,dataset,1687792223,69,,,69,Sea Level,1687792223,1687792223,,,1,1,1,/dataset/sea-level,,"<p>Mock sea level rise indicator, not accurate, testing purposes only</p>
+",,1,2,,,,,,,21,86,,,,176,,,,,,,,,,,,,,,,,91|90,,53,,1,,
+210,5ba9ac51-df36-4c16-a3fc-2a9a92022645,281,en,dataset,1687796614,69,,,69,Curlew Survey Data -Cefni- O_BR,1687796614,1687796614,,,1,1,1,/dataset/curlew-survey-data-cefni-obr,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,177,,,,,,,,,,,,,,,,,90,,53,,1,,
+211,428b27f2-3371-48e2-8025-3a4c5e6e01ef,282,en,dataset,1687796643,69,,,69,Curlew Survey Data -Cefni- W_BB,1687796643,1687796643,,,1,1,1,/dataset/curlew-survey-data-cefni-wbb,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,178,,,,,,,,,,,,,,,,,90,,53,,1,,
+212,159b1af0-337a-45fa-95e8-10d9fff500cf,283,en,dataset,1687796659,69,,,69,Curlew Survey Data -Cefni- W_BR,1687796659,1687796659,,,1,1,1,/dataset/curlew-survey-data-cefni-wbr,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,179,,,,,,,,,,,,,,,,,90,,53,,1,,
+213,c32c1f53-c3ee-4d2a-87b0-ba173cdbafc3,284,en,dataset,1687796683,69,,,69,Curlew Survey Data -Cefni- W_GG,1687796683,1687796683,,,1,1,1,/dataset/curlew-survey-data-cefni-wgg,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,180,,,,,,,,,,,,,,,,,90,,53,,1,,
+214,85ed7152-34b4-41f1-9e04-1f05b6f623cd,285,en,dataset,1687797234,69,,,69,Curlew Survey Data -Cefni- W_GR,1687797234,1687797233,,,1,1,1,/dataset/curlew-survey-data-cefni-wgr,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,181,,,,,,,,,,,,,,,,,90,,53,,1,,
+215,bf2bccc8-1156-4990-8e16-25ce8fe8e632,286,en,dataset,1687797254,69,,,69,Curlew Survey Data -Cefni- W_GW,1687797254,1687797253,,,1,1,1,/dataset/curlew-survey-data-cefni-wgw,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,182,,,,,,,,,,,,,,,,,90,,53,,1,,
+216,9526e209-5110-4b13-a6d4-63eb91ce4abd,287,en,dataset,1687797272,69,,,69,Curlew Survey Data -Cefni- W_NN,1687797272,1687797272,,,1,1,1,/dataset/curlew-survey-data-cefni-wnn,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,183,,,,,,,,,,,,,,,,,90,,53,,1,,
+217,64366cfd-d09b-40bf-972f-7003c6e80882,288,en,dataset,1687797290,69,,,69,Curlew Survey Data -Cefni- W_NO,1687797290,1687797289,,,1,1,1,/dataset/curlew-survey-data-cefni-wno,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,184,,,,,,,,,,,,,,,,,90,,53,,1,,
+218,1bd704ff-a853-4278-9d7c-1e6ad0abd608,289,en,dataset,1687797304,69,,,69,Curlew Survey Data -Cefni- W_NR,1687797304,1687797304,,,1,1,1,/dataset/curlew-survey-data-cefni-wnr,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,185,,,,,,,,,,,,,,,,,90,,53,,1,,
+219,c7f770c2-28c1-4840-b1ac-4c522eb85555,290,en,dataset,1687797321,69,,,69,Curlew Survey Data -Cefni- W_NW,1687797321,1687797321,,,1,1,1,/dataset/curlew-survey-data-cefni-wnw,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,186,,,,,,,,,,,,,,,,,90,,53,,1,,
+220,00d8db99-d6fe-41c2-9796-3a4e8668ba0c,291,en,dataset,1687797339,69,,,69,Curlew Survey Data -Cefni- W_OB,1687797339,1687797339,,,1,1,1,/dataset/curlew-survey-data-cefni-wob,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,187,,,,,,,,,,,,,,,,,90,,53,,1,,
+221,fd22780c-75c6-4f85-a3be-88e5690aee73,292,en,dataset,1687797360,69,,,69,Curlew Survey Data -Cefni- W_ON,1687797360,1687797360,,,1,1,1,/dataset/curlew-survey-data-cefni-won,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,188,,,,,,,,,,,,,,,,,90,,53,,1,,
+222,53da049e-db10-4b74-948d-262be19bf009,293,en,dataset,1687797375,69,,,69,Curlew Survey Data -Cefni- W_OO,1687797375,1687797375,,,1,1,1,/dataset/curlew-survey-data-cefni-woo,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,189,,,,,,,,,,,,,,,,,90,,53,,1,,
+223,c82d5828-31d2-4d61-8f6c-049a6691980a,294,en,dataset,1687797393,69,,,69,Curlew Survey Data -Cefni- W_RG,1687797393,1687797392,,,1,1,1,/dataset/curlew-survey-data-cefni-wrg,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,190,,,,,,,,,,,,,,,,,90,,53,,1,,
+224,62efdb89-55ae-44f3-bd59-3ce69aed27e0,295,en,dataset,1687797403,69,,,69,Curlew Survey Data -Cefni- W_RN,1687797403,1687797403,,,1,1,1,/dataset/curlew-survey-data-cefni-wrn,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,191,,,,,,,,,,,,,,,,,90,,53,,1,,
+225,12b69785-d558-45bb-b924-f394b6f30194,296,en,dataset,1687797415,69,,,69,Curlew Survey Data -Cefni- W_RO,1687797415,1687797415,,,1,1,1,/dataset/curlew-survey-data-cefni-wro,,"<p>Curlew tracking data - Cefni</p>
+",,1,2,,,,,,,96,10,,,,192,,,,,,,,,,,,,,,,,90,,53,,1,,
+226,c74d7962-f588-488e-b4f0-ddabdde26a6e,297,en,dataset,1687797454,69,,,69,Curlew Survey Data -Dyfi- Nr4K,1687797454,1687797466,,,1,1,1,/dataset/curlew-survey-data-dyfi-nr4k,,"<p>Curlew tracking data - Dyfi</p>
+",,1,2,,,,,,,96,10,,,,193,,,,,,,,,,,,,,,,,90,,53,,1,,
+227,89872c2f-b2d0-4ea6-921f-535e465d1326,298,en,dataset,1687797481,69,,,69,Curlew Survey Data -Dyfi- Nr6K,1687797481,1687797481,,,1,1,1,/dataset/curlew-survey-data-dyfi-nr6k,,"<p>Curlew tracking data - Dyfi</p>
+",,1,2,,,,,,,96,10,,,,194,,,,,,,,,,,,,,,,,90,,53,,1,,
+228,67c7f203-49fa-4e46-8964-ac8036131a1b,299,en,dataset,1687797492,69,,,69,Curlew Survey Data -Dyfi- Nr7K,1687797492,1687797492,,,1,1,1,/dataset/curlew-survey-data-dyfi-nr7k,,"<p>Curlew tracking data - Dyfi</p>
+",,1,2,,,,,,,96,10,,,,195,,,,,,,,,,,,,,,,,90,,53,,1,,
+229,a3e264b9-5f54-4731-9b62-ccbe38aa06f0,300,en,dataset,1687797510,69,,,69,Curlew Survey Data -Dyfi- NrM5,1687797510,1687797510,,,1,1,1,/dataset/curlew-survey-data-dyfi-nrm5,,"<p>Curlew tracking data - Dyfi</p>
+",,1,2,,,,,,,96,10,,,,196,,,,,,,,,,,,,,,,,90,,53,,1,,
+230,3e34f752-c7dc-499b-8f6e-f483f0b93f81,301,en,dataset,1687797526,69,,,69,Curlew Survey Data -Dyfi- NrM6,1687797526,1687797526,,,1,1,1,/dataset/curlew-survey-data-dyfi-nrm6,,"<p>Curlew tracking data - Dyfi</p>
+",,1,2,,,,,,,96,10,,,,197,,,,,,,,,,,,,,,,,90,,53,,1,,
+231,69284553-7aa1-4aaa-9744-46d80b6f226a,302,en,dataset,1687797539,69,,,69,Curlew Survey Data -Dyfi- NrM7,1687797539,1687797539,,,1,1,1,/dataset/curlew-survey-data-dyfi-nrm7,,"<p>Curlew tracking data - Dyfi</p>
+",,1,2,,,,,,,96,10,,,,198,,,,,,,,,,,,,,,,,90,,53,,1,,
+232,aeb1f5dd-6d1e-411e-919f-e9d483ed981d,303,en,dataset,1687797589,69,,,69,Curlew Survey Data -Dyfi- YrA2,1687797589,1687797589,,,1,1,1,/dataset/curlew-survey-data-dyfi-yra2,,"<p>Curlew tracking data - Dyfi</p>
+",,1,2,,,,,,,96,10,,,,199,,,,,,,,,,,,,,,,,90,,53,,1,,
+233,c29425ee-adcc-4d9a-a462-93345386e40f,304,en,dataset,1687797607,69,,,69,Curlew Survey Data -Dyfi- YrL2,1687797607,1687797607,,,1,1,1,/dataset/curlew-survey-data-dyfi-yrl2,,"<p>Curlew tracking data - Dyfi</p>
+",,1,2,,,,,,,96,10,,,,200,,,,,,,,,,,,,,,,,90,,53,,1,,
+234,e3964bc5-40c0-43bb-9e8b-2a4033409024,305,en,dataset,1687797625,69,,,69,Curlew Survey Data -Dyfi- YrX2,1687797625,1687797624,,,1,1,1,/dataset/curlew-survey-data-dyfi-yrx2,,"<p>Curlew tracking data - Dyfi</p>
+",,1,2,,,,,,,96,10,,,,201,,,,,,,,,,,,,,,,,90,,53,,1,,
